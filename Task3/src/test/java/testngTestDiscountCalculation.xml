@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testDiscountCalculation">
+    <test name="testDiscountCalculation">
+        <groups>
+            <run>
+                <exclude name="SteamAppDownload"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="SteamTest"></class>
+        </classes>
+    </test>
+    <test name="testDownload">
+        <groups>
+            <run>
+                <exclude name="TestSuitDiscountCalculationCheck"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="SteamTest"></class>
+        </classes>
+    </test>
+</suite>

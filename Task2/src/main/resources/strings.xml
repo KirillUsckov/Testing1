@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<strings>
+    <siteUrl>https://yandex.ru/</siteUrl>
+
+    <userEmail>KirBeria@yandex.ru</userEmail>
+    <userPassword>Rasamo4ka1180</userPassword>
+
+    <!-- browser задает браузер для тестирования, по уполчанию - Chrome, можно поставить FireFox-->
+    <browser>Chrome</browser>
+    <PropertyDirectoryPath>src/main/resources/config.properties</PropertyDirectoryPath>
+
+    <!-- 1 - Windows, 2 - Linux -->
+    <codeOS>1</codeOS>
+</strings>

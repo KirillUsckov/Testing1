@@ -1,0 +1,1 @@
+insert into session (session_key, created_time, build_number) select sesKey, 'createdTime', (MAX(build_number) + 1) from session;

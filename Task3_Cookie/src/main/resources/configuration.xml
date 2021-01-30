@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<settings>
+
+    <siteUrl>http://example.com/</siteUrl>
+    <!-- browser задает браузер для тестирования, по умолчанию - Chrome, можно поставить FireFox -->
+    <browser>Chrome</browser>
+
+</settings>

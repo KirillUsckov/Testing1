@@ -1,0 +1,3561 @@
+STEP 1	2020.10.27 21:01:44:	Open login page
+
+STEP 2	2020.10.27 21:01:52:	Login
+
+STEP 3	2020.10.27 21:01:53:	Open profile page
+
+STEP 4	2020.10.27 21:01:57:	Set API request to add a post
+INFO	2020.10.27 21:01:59  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.27 21:09:31:	Open login page
+
+STEP 2	2020.10.27 21:09:35:	Login
+
+STEP 3	2020.10.27 21:09:36:	Open profile page
+
+STEP 4	2020.10.27 21:09:48:	Set API request to add a post
+INFO	2020.10.27 21:09:49  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.27 21:11:38:	Open login page
+
+STEP 2	2020.10.27 21:11:43:	Login
+
+STEP 3	2020.10.27 21:11:44:	Open profile page
+
+STEP 4	2020.10.27 21:11:49:	Set API request to add a post
+INFO	2020.10.27 21:11:50  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.27 21:15:26:	Open login page
+
+STEP 2	2020.10.27 21:15:32:	Login
+
+STEP 3	2020.10.27 21:15:32:	Open profile page
+
+STEP 4	2020.10.27 21:15:41:	Set API request to add a post
+INFO	2020.10.27 21:15:42  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.27 21:16:32:	Open login page
+
+STEP 2	2020.10.27 21:16:38:	Login
+
+STEP 3	2020.10.27 21:16:38:	Open profile page
+
+STEP 1	2020.10.27 21:17:23:	Open login page
+
+STEP 2	2020.10.27 21:17:29:	Login
+
+STEP 3	2020.10.27 21:17:30:	Open profile page
+
+STEP 4	2020.10.27 21:17:36:	Set API request to add a post
+INFO	2020.10.27 21:17:37  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.27 21:28:57:	Open login page
+
+STEP 2	2020.10.27 21:28:59:	Login
+
+STEP 3	2020.10.27 21:29:00:	Open profile page
+
+STEP 4	2020.10.27 21:29:04:	Set API request to add a post
+INFO	2020.10.27 21:29:05  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.27 21:48:07:	Open login page
+
+STEP 2	2020.10.27 21:48:09:	Login
+
+STEP 3	2020.10.27 21:48:10:	Open profile page
+
+STEP 4	2020.10.27 21:48:17:	Set API request to add a post
+INFO	2020.10.27 21:48:18  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.27 21:49:27:	Open login page
+
+STEP 2	2020.10.27 21:49:28:	Login
+
+STEP 3	2020.10.27 21:49:29:	Open profile page
+
+STEP 4	2020.10.27 21:49:32:	Set API request to add a post
+INFO	2020.10.27 21:49:33  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.27 21:51:18:	Open login page
+
+STEP 2	2020.10.27 21:51:21:	Login
+
+STEP 3	2020.10.27 21:51:21:	Open profile page
+
+STEP 4	2020.10.27 21:51:25:	Set API request to add a post
+INFO	2020.10.27 21:51:25  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:02:56:	Open login page
+
+STEP 2	2020.10.28 18:03:00:	Login
+
+STEP 3	2020.10.28 18:03:00:	Open profile page
+
+STEP 4	2020.10.28 18:03:06:	Set API request to add a post
+INFO	2020.10.28 18:03:07  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:03:12:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:03:12:	Add comment to a post
+INFO	2020.10.28 18:03:12  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:04:47:	Open login page
+
+STEP 2	2020.10.28 18:04:49:	Login
+
+STEP 3	2020.10.28 18:04:50:	Open profile page
+
+STEP 4	2020.10.28 18:04:54:	Set API request to add a post
+INFO	2020.10.28 18:04:54  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:04:57:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:04:57:	Add comment to a post
+INFO	2020.10.28 18:04:57  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:05:54:	Open login page
+
+STEP 2	2020.10.28 18:05:56:	Login
+
+STEP 3	2020.10.28 18:05:56:	Open profile page
+
+STEP 4	2020.10.28 18:06:02:	Set API request to add a post
+INFO	2020.10.28 18:06:03  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:06:05:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:06:05:	Add comment to a post
+INFO	2020.10.28 18:06:05  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:12:01:	Open login page
+
+STEP 2	2020.10.28 18:12:03:	Login
+
+STEP 3	2020.10.28 18:12:04:	Open profile page
+
+STEP 4	2020.10.28 18:12:14:	Set API request to add a post
+INFO	2020.10.28 18:12:16  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:12:19:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:12:19:	Add comment to a post
+INFO	2020.10.28 18:12:19  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 18:12:19:	Like post
+
+STEP 1	2020.10.28 18:25:47:	Open login page
+
+STEP 2	2020.10.28 18:25:50:	Login
+
+STEP 3	2020.10.28 18:25:50:	Open profile page
+
+STEP 4	2020.10.28 18:25:53:	Set API request to add a post
+INFO	2020.10.28 18:25:54  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:27:19:	Open login page
+
+STEP 2	2020.10.28 18:27:22:	Login
+
+STEP 3	2020.10.28 18:27:23:	Open profile page
+
+STEP 4	2020.10.28 18:27:27:	Set API request to add a post
+INFO	2020.10.28 18:27:28  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:27:31:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:27:31:	Add comment to a post
+INFO	2020.10.28 18:27:31  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:30:04:	Open login page
+
+STEP 2	2020.10.28 18:30:06:	Login
+
+STEP 3	2020.10.28 18:30:07:	Open profile page
+
+STEP 4	2020.10.28 18:30:10:	Set API request to add a post
+INFO	2020.10.28 18:30:11  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:30:13:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:30:13:	Add comment to a post
+INFO	2020.10.28 18:30:13  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:33:18:	Open login page
+
+STEP 2	2020.10.28 18:33:20:	Login
+
+STEP 3	2020.10.28 18:33:20:	Open profile page
+
+STEP 4	2020.10.28 18:33:23:	Set API request to add a post
+INFO	2020.10.28 18:33:23  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:33:26:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:33:26:	Add comment to a post
+INFO	2020.10.28 18:33:26  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:39:08:	Open login page
+
+STEP 2	2020.10.28 18:39:10:	Login
+
+STEP 3	2020.10.28 18:39:11:	Open profile page
+
+STEP 4	2020.10.28 18:39:14:	Set API request to add a post
+INFO	2020.10.28 18:39:15  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:39:17:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:39:17:	Add comment to a post
+INFO	2020.10.28 18:39:17  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:40:21:	Open login page
+
+STEP 2	2020.10.28 18:40:22:	Login
+
+STEP 3	2020.10.28 18:40:23:	Open profile page
+
+STEP 4	2020.10.28 18:40:26:	Set API request to add a post
+INFO	2020.10.28 18:40:26  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:40:33:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:40:33:	Add comment to a post
+INFO	2020.10.28 18:40:33  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:42:27:	Open login page
+
+STEP 2	2020.10.28 18:42:29:	Login
+
+STEP 3	2020.10.28 18:42:30:	Open profile page
+
+STEP 4	2020.10.28 18:42:33:	Set API request to add a post
+INFO	2020.10.28 18:42:34  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:42:37:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:42:37:	Add comment to a post
+INFO	2020.10.28 18:42:37  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:43:29:	Open login page
+
+STEP 2	2020.10.28 18:43:31:	Login
+
+STEP 3	2020.10.28 18:43:31:	Open profile page
+
+STEP 4	2020.10.28 18:43:34:	Set API request to add a post
+INFO	2020.10.28 18:43:35  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:43:38:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:43:38:	Add comment to a post
+INFO	2020.10.28 18:43:38  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.28 18:45:38:	Open login page
+
+STEP 2	2020.10.28 18:45:40:	Login
+
+STEP 3	2020.10.28 18:45:41:	Open profile page
+
+STEP 4	2020.10.28 18:45:44:	Set API request to add a post
+INFO	2020.10.28 18:45:45  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 18:45:48:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 18:45:48:	Add comment to a post
+INFO	2020.10.28 18:45:48  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 18:45:49:	Like post
+
+STEP 1	2020.10.28 19:18:44:	Open login page
+
+STEP 2	2020.10.28 19:18:47:	Login
+
+STEP 3	2020.10.28 19:18:48:	Open profile page
+
+STEP 4	2020.10.28 19:18:53:	Set API request to add a post
+INFO	2020.10.28 19:18:53  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 19:18:56:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 19:18:56:	Add comment to a post
+INFO	2020.10.28 19:18:56  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 19:18:57:	Like post
+
+STEP 1	2020.10.28 19:22:50:	Open login page
+
+STEP 2	2020.10.28 19:22:52:	Login
+
+STEP 3	2020.10.28 19:22:53:	Open profile page
+
+STEP 4	2020.10.28 19:22:56:	Set API request to add a post
+INFO	2020.10.28 19:22:57  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 19:22:59:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 19:22:59:	Add comment to a post
+INFO	2020.10.28 19:22:59  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 19:23:00:	Like post
+
+STEP 1	2020.10.28 19:27:52:	Open login page
+
+STEP 2	2020.10.28 19:27:54:	Login
+
+STEP 3	2020.10.28 19:27:55:	Open profile page
+
+STEP 4	2020.10.28 19:27:59:	Set API request to add a post
+INFO	2020.10.28 19:28:00  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 19:28:02:	Edit post text and add image attachment
+
+STEP 6	2020.10.28 19:28:02:	Add comment to a post
+INFO	2020.10.28 19:28:02  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 19:28:03:	Like post
+
+STEP 1	2020.10.28 19:50:33:	Open login page
+
+STEP 2	2020.10.28 19:50:35:	Login
+
+STEP 3	2020.10.28 19:50:36:	Open profile page
+
+STEP 4	2020.10.28 19:50:40:	Set API request to add a post
+INFO	2020.10.28 19:50:41  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 19:50:44:	Edit post text and add image attachment
+INFO	2020.10.28 19:50:44  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.28 19:50:44:	Add comment to a post
+INFO	2020.10.28 19:50:44  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 19:50:45:	Like post
+
+STEP 1	2020.10.28 19:51:42:	Open login page
+
+STEP 2	2020.10.28 19:51:46:	Login
+
+STEP 3	2020.10.28 19:51:46:	Open profile page
+
+STEP 4	2020.10.28 19:51:50:	Set API request to add a post
+INFO	2020.10.28 19:51:50  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 19:51:53:	Edit post text and add image attachment
+INFO	2020.10.28 19:51:53  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.28 19:51:53:	Add comment to a post
+INFO	2020.10.28 19:51:53  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 19:51:53:	Like post
+
+STEP 1	2020.10.28 19:53:32:	Open login page
+
+STEP 2	2020.10.28 19:53:34:	Login
+
+STEP 3	2020.10.28 19:53:34:	Open profile page
+
+STEP 4	2020.10.28 19:53:40:	Set API request to add a post
+INFO	2020.10.28 19:53:41  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 19:53:43:	Edit post text and add image attachment
+INFO	2020.10.28 19:53:43  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.28 19:53:43:	Add comment to a post
+INFO	2020.10.28 19:53:43  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 19:53:44:	Like post
+
+STEP 1	2020.10.28 20:02:34:	Open login page
+
+STEP 2	2020.10.28 20:02:42:	Login
+
+STEP 3	2020.10.28 20:02:43:	Open profile page
+
+STEP 1	2020.10.28 20:03:09:	Open login page
+
+STEP 2	2020.10.28 20:03:14:	Login
+
+STEP 3	2020.10.28 20:03:15:	Open profile page
+
+STEP 4	2020.10.28 20:03:20:	Set API request to add a post
+INFO	2020.10.28 20:03:20  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 20:03:23:	Edit post text and add image attachment
+INFO	2020.10.28 20:03:23  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.28 20:03:23:	Add comment to a post
+INFO	2020.10.28 20:03:23  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 20:03:24:	Like post
+
+STEP 1	2020.10.28 20:04:28:	Open login page
+
+STEP 2	2020.10.28 20:04:42:	Login
+
+STEP 3	2020.10.28 20:04:43:	Open profile page
+
+STEP 4	2020.10.28 20:05:09:	Set API request to add a post
+INFO	2020.10.28 20:05:13  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 20:05:20:	Edit post text and add image attachment
+INFO	2020.10.28 20:05:20  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.28 20:05:20:	Add comment to a post
+INFO	2020.10.28 20:05:20  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 20:05:22:	Like post
+
+STEP 1	2020.10.28 20:06:14:	Open login page
+
+STEP 2	2020.10.28 20:06:24:	Login
+
+STEP 3	2020.10.28 20:06:24:	Open profile page
+
+STEP 4	2020.10.28 20:07:20:	Set API request to add a post
+INFO	2020.10.28 20:07:21  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 20:07:25:	Edit post text and add image attachment
+INFO	2020.10.28 20:07:25  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.28 20:07:25:	Add comment to a post
+INFO	2020.10.28 20:07:25  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 20:07:26:	Like post
+
+STEP 1	2020.10.28 20:10:44:	Open login page
+
+STEP 2	2020.10.28 20:11:10:	Login
+
+STEP 3	2020.10.28 20:11:11:	Open profile page
+
+STEP 1	2020.10.28 20:13:31:	Open login page
+
+STEP 2	2020.10.28 20:13:35:	Login
+
+STEP 3	2020.10.28 20:13:36:	Open profile page
+
+STEP 1	2020.10.28 20:14:09:	Open login page
+
+STEP 2	2020.10.28 20:14:12:	Login
+
+STEP 3	2020.10.28 20:14:13:	Open profile page
+
+STEP 1	2020.10.28 21:23:25:	Open login page
+
+STEP 2	2020.10.28 21:23:27:	Login
+
+STEP 3	2020.10.28 21:23:28:	Open profile page
+
+STEP 4	2020.10.28 21:23:32:	Set API request to add a post
+INFO	2020.10.28 21:23:33  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 21:23:38:	Edit post text and add image attachment
+INFO	2020.10.28 21:23:38  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.28 21:23:38:	Add comment to a post
+INFO	2020.10.28 21:23:38  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 21:23:39:	Like post
+
+STEP 1	2020.10.28 21:38:25:	Open login page
+
+STEP 2	2020.10.28 21:38:39:	Login
+
+STEP 3	2020.10.28 21:38:40:	Open profile page
+
+STEP 4	2020.10.28 21:38:44:	Set API request to add a post
+INFO	2020.10.28 21:38:45  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.28 21:38:49:	Edit post text and add image attachment
+INFO	2020.10.28 21:38:49  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.28 21:38:49:	Add comment to a post
+INFO	2020.10.28 21:38:49  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.28 21:38:50:	Like post
+
+STEP 1	2020.10.29 14:41:57:	Open login page
+
+STEP 2	2020.10.29 14:41:59:	Login
+
+STEP 3	2020.10.29 14:42:01:	Open profile page
+
+STEP 4	2020.10.29 14:42:05:	Set API request to add a post
+INFO	2020.10.29 14:42:05  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 14:43:21:	Open login page
+
+STEP 2	2020.10.29 14:43:22:	Login
+
+STEP 3	2020.10.29 14:43:23:	Open profile page
+
+STEP 4	2020.10.29 14:43:27:	Set API request to add a post
+INFO	2020.10.29 14:43:28  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 14:48:44:	Open login page
+
+STEP 2	2020.10.29 14:48:47:	Login
+
+STEP 3	2020.10.29 14:48:48:	Open profile page
+
+STEP 4	2020.10.29 14:48:53:	Set API request to add a post
+INFO	2020.10.29 14:48:54  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 14:49:37:	Open login page
+
+STEP 2	2020.10.29 14:49:40:	Login
+
+STEP 3	2020.10.29 14:49:40:	Open profile page
+
+STEP 4	2020.10.29 14:49:48:	Set API request to add a post
+INFO	2020.10.29 14:49:49  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 14:51:37:	Open login page
+
+STEP 2	2020.10.29 14:51:40:	Login
+
+STEP 3	2020.10.29 14:51:41:	Open profile page
+
+STEP 4	2020.10.29 14:51:47:	Set API request to add a post
+INFO	2020.10.29 14:51:48  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 14:52:43:	Open login page
+
+STEP 2	2020.10.29 14:52:47:	Login
+
+STEP 3	2020.10.29 14:52:47:	Open profile page
+
+STEP 4	2020.10.29 14:52:56:	Set API request to add a post
+INFO	2020.10.29 14:52:56  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 14:54:01:	Open login page
+
+STEP 2	2020.10.29 14:54:04:	Login
+
+STEP 3	2020.10.29 14:54:05:	Open profile page
+
+STEP 4	2020.10.29 14:54:13:	Set API request to add a post
+INFO	2020.10.29 14:54:14  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 14:55:23:	Open login page
+
+STEP 2	2020.10.29 14:55:26:	Login
+
+STEP 3	2020.10.29 14:55:26:	Open profile page
+
+STEP 4	2020.10.29 14:55:32:	Set API request to add a post
+INFO	2020.10.29 14:55:32  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:02:58:	Open login page
+
+STEP 2	2020.10.29 15:03:00:	Login
+
+STEP 3	2020.10.29 15:03:00:	Open profile page
+
+STEP 4	2020.10.29 15:03:06:	Set API request to add a post
+INFO	2020.10.29 15:03:07  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:03:09:	Edit post text and add image attachment
+INFO	2020.10.29 15:03:09  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:05:05:	Open login page
+
+STEP 2	2020.10.29 15:05:08:	Login
+
+STEP 3	2020.10.29 15:05:08:	Open profile page
+
+STEP 4	2020.10.29 15:05:17:	Set API request to add a post
+INFO	2020.10.29 15:05:17  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:05:20:	Edit post text and add image attachment
+INFO	2020.10.29 15:05:20  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:06:33:	Open login page
+
+STEP 2	2020.10.29 15:06:34:	Login
+
+STEP 3	2020.10.29 15:06:35:	Open profile page
+
+STEP 4	2020.10.29 15:06:42:	Set API request to add a post
+INFO	2020.10.29 15:06:43  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:06:45:	Edit post text and add image attachment
+INFO	2020.10.29 15:06:45  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:12:54:	Open login page
+
+STEP 2	2020.10.29 15:12:56:	Login
+
+STEP 3	2020.10.29 15:12:57:	Open profile page
+
+STEP 4	2020.10.29 15:13:03:	Set API request to add a post
+INFO	2020.10.29 15:13:03  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:13:06:	Edit post text and add image attachment
+INFO	2020.10.29 15:13:06  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:13:06:	Add comment to a post
+INFO	2020.10.29 15:13:06  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:14:19:	Open login page
+
+STEP 2	2020.10.29 15:14:21:	Login
+
+STEP 3	2020.10.29 15:14:22:	Open profile page
+
+STEP 4	2020.10.29 15:14:28:	Set API request to add a post
+INFO	2020.10.29 15:14:29  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:14:31:	Edit post text and add image attachment
+INFO	2020.10.29 15:14:31  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:14:31:	Add comment to a post
+INFO	2020.10.29 15:14:31  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:22:15:	Open login page
+
+STEP 2	2020.10.29 15:22:18:	Login
+
+STEP 3	2020.10.29 15:22:18:	Open profile page
+
+STEP 4	2020.10.29 15:22:25:	Set API request to add a post
+INFO	2020.10.29 15:22:26  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:22:28:	Edit post text and add image attachment
+INFO	2020.10.29 15:22:28  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:22:28:	Add comment to a post
+INFO	2020.10.29 15:22:28  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:24:48:	Open login page
+
+STEP 2	2020.10.29 15:24:50:	Login
+
+STEP 3	2020.10.29 15:24:50:	Open profile page
+
+STEP 4	2020.10.29 15:24:55:	Set API request to add a post
+INFO	2020.10.29 15:24:56  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:24:58:	Edit post text and add image attachment
+INFO	2020.10.29 15:24:58  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:24:58:	Add comment to a post
+INFO	2020.10.29 15:24:58  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:25:59:	Open login page
+
+STEP 2	2020.10.29 15:26:01:	Login
+
+STEP 3	2020.10.29 15:26:02:	Open profile page
+
+STEP 4	2020.10.29 15:26:05:	Set API request to add a post
+INFO	2020.10.29 15:26:05  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:26:08:	Edit post text and add image attachment
+INFO	2020.10.29 15:26:08  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:26:08:	Add comment to a post
+INFO	2020.10.29 15:26:08  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:27:20:	Open login page
+
+STEP 2	2020.10.29 15:27:23:	Login
+
+STEP 3	2020.10.29 15:27:23:	Open profile page
+
+STEP 4	2020.10.29 15:27:29:	Set API request to add a post
+INFO	2020.10.29 15:27:30  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:27:33:	Edit post text and add image attachment
+INFO	2020.10.29 15:27:33  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:27:33:	Add comment to a post
+INFO	2020.10.29 15:27:33  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.29 15:34:09:	Open login page
+
+STEP 2	2020.10.29 15:34:11:	Login
+
+STEP 3	2020.10.29 15:34:11:	Open profile page
+
+STEP 4	2020.10.29 15:34:16:	Set API request to add a post
+INFO	2020.10.29 15:34:16  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:34:19:	Edit post text and add image attachment
+INFO	2020.10.29 15:34:19  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:34:19:	Add comment to a post
+INFO	2020.10.29 15:34:19  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 15:34:20:	Like post
+
+STEP 1	2020.10.29 15:38:08:	Open login page
+
+STEP 2	2020.10.29 15:38:11:	Login
+
+STEP 3	2020.10.29 15:38:11:	Open profile page
+
+STEP 4	2020.10.29 15:38:17:	Set API request to add a post
+INFO	2020.10.29 15:38:17  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:38:20:	Edit post text and add image attachment
+INFO	2020.10.29 15:38:20  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:38:20:	Add comment to a post
+INFO	2020.10.29 15:38:20  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 15:38:21:	Like post
+
+STEP 1	2020.10.29 15:40:14:	Open login page
+
+STEP 2	2020.10.29 15:40:16:	Login
+
+STEP 3	2020.10.29 15:40:16:	Open profile page
+
+STEP 4	2020.10.29 15:40:20:	Set API request to add a post
+INFO	2020.10.29 15:40:20  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:40:23:	Edit post text and add image attachment
+INFO	2020.10.29 15:40:23  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:40:23:	Add comment to a post
+INFO	2020.10.29 15:40:23  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 15:40:23:	Like post
+
+STEP 1	2020.10.29 15:43:00:	Open login page
+
+STEP 2	2020.10.29 15:43:03:	Login
+
+STEP 3	2020.10.29 15:43:03:	Open profile page
+
+STEP 4	2020.10.29 15:43:08:	Set API request to add a post
+INFO	2020.10.29 15:43:09  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:43:12:	Edit post text and add image attachment
+INFO	2020.10.29 15:43:12  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:43:12:	Add comment to a post
+INFO	2020.10.29 15:43:12  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 15:43:13:	Like post
+
+STEP 1	2020.10.29 15:44:13:	Open login page
+
+STEP 2	2020.10.29 15:44:17:	Login
+
+STEP 3	2020.10.29 15:44:18:	Open profile page
+
+STEP 4	2020.10.29 15:44:22:	Set API request to add a post
+INFO	2020.10.29 15:44:23  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 15:44:28:	Edit post text and add image attachment
+INFO	2020.10.29 15:44:28  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 15:44:28:	Add comment to a post
+INFO	2020.10.29 15:44:28  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 15:44:29:	Like post
+
+STEP 1	2020.10.29 16:54:55:	Open login page
+
+STEP 2	2020.10.29 16:55:00:	Login
+
+STEP 3	2020.10.29 16:55:01:	Open profile page
+
+STEP 4	2020.10.29 16:55:05:	Set API request to add a post
+INFO	2020.10.29 16:55:05  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 16:55:10:	Edit post text and add image attachment
+INFO	2020.10.29 16:55:10  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 16:55:11:	Add comment to a post
+INFO	2020.10.29 16:55:11  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 16:55:14:	Like post
+
+STEP 1	2020.10.29 16:56:58:	Open login page
+
+STEP 2	2020.10.29 16:57:02:	Login
+
+STEP 3	2020.10.29 16:57:02:	Open profile page
+
+STEP 1	2020.10.29 16:58:21:	Open login page
+
+STEP 2	2020.10.29 16:58:29:	Login
+
+STEP 3	2020.10.29 16:58:29:	Open profile page
+
+STEP 4	2020.10.29 16:58:39:	Set API request to add a post
+INFO	2020.10.29 16:58:40  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 16:58:44:	Edit post text and add image attachment
+INFO	2020.10.29 16:58:44  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 16:58:45:	Add comment to a post
+INFO	2020.10.29 16:58:45  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 16:58:49:	Like post
+
+STEP 1	2020.10.29 17:00:38:	Open login page
+
+STEP 2	2020.10.29 17:00:42:	Login
+
+STEP 3	2020.10.29 17:00:43:	Open profile page
+
+STEP 4	2020.10.29 17:00:58:	Set API request to add a post
+INFO	2020.10.29 17:00:59  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 17:01:04:	Edit post text and add image attachment
+INFO	2020.10.29 17:01:04  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 17:01:06:	Add comment to a post
+INFO	2020.10.29 17:01:06  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 17:01:10:	Like post
+
+STEP 1	2020.10.29 17:34:42:	Open login page
+
+STEP 2	2020.10.29 17:34:49:	Login
+
+STEP 3	2020.10.29 17:34:50:	Open profile page
+
+STEP 1	2020.10.29 17:46:16:	Open login page
+
+STEP 2	2020.10.29 17:46:18:	Login
+
+STEP 3	2020.10.29 17:46:18:	Open profile page
+
+STEP 1	2020.10.29 18:02:45:	Open login page
+
+STEP 2	2020.10.29 18:02:47:	Login
+
+STEP 3	2020.10.29 18:02:47:	Open profile page
+
+STEP 1	2020.10.29 18:04:05:	Open login page
+
+STEP 2	2020.10.29 18:04:08:	Login
+
+STEP 3	2020.10.29 18:04:09:	Open profile page
+
+STEP 4	2020.10.29 18:04:14:	Set API request to add a post
+INFO	2020.10.29 18:04:15  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 18:04:18:	Edit post text and add image attachment
+INFO	2020.10.29 18:04:18  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 18:04:18:	Add comment to a post
+INFO	2020.10.29 18:04:18  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 18:04:19:	Like post
+
+STEP 1	2020.10.29 18:35:43:	Open login page
+
+STEP 2	2020.10.29 18:35:47:	Login
+
+STEP 3	2020.10.29 18:35:47:	Open profile page
+
+STEP 1	2020.10.29 18:36:50:	Open login page
+
+STEP 2	2020.10.29 18:36:53:	Login
+
+STEP 3	2020.10.29 18:36:54:	Open profile page
+
+STEP 4	2020.10.29 18:36:57:	Set API request to add a post
+INFO	2020.10.29 18:36:57  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 18:37:01:	Edit post text and add image attachment
+INFO	2020.10.29 18:37:01  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 18:37:01:	Add comment to a post
+INFO	2020.10.29 18:37:01  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 18:37:02:	Like post
+
+STEP 1	2020.10.29 18:38:46:	Open login page
+
+STEP 2	2020.10.29 18:38:50:	Login
+
+STEP 3	2020.10.29 18:38:50:	Open profile page
+
+STEP 4	2020.10.29 18:38:56:	Set API request to add a post
+INFO	2020.10.29 18:38:57  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 18:39:02:	Edit post text and add image attachment
+INFO	2020.10.29 18:39:02  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 18:39:02:	Add comment to a post
+INFO	2020.10.29 18:39:02  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 18:39:04:	Like post
+
+STEP 1	2020.10.29 19:00:14:	Open login page
+
+STEP 2	2020.10.29 19:00:17:	Login
+
+STEP 3	2020.10.29 19:00:18:	Open profile page
+
+STEP 4	2020.10.29 19:00:23:	Set API request to add a post
+INFO	2020.10.29 19:00:24  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:00:28:	Edit post text and add image attachment
+INFO	2020.10.29 19:00:28  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:00:28:	Add comment to a post
+INFO	2020.10.29 19:00:28  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:00:30:	Like post
+
+STEP 1	2020.10.29 19:03:05:	Open login page
+
+STEP 2	2020.10.29 19:03:07:	Login
+
+STEP 3	2020.10.29 19:03:08:	Open profile page
+
+STEP 4	2020.10.29 19:03:12:	Set API request to add a post
+INFO	2020.10.29 19:03:13  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:03:16:	Edit post text and add image attachment
+INFO	2020.10.29 19:03:16  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:03:16:	Add comment to a post
+INFO	2020.10.29 19:03:16  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:03:18:	Like post
+
+STEP 1	2020.10.29 19:04:12:	Open login page
+
+STEP 2	2020.10.29 19:04:14:	Login
+
+STEP 3	2020.10.29 19:04:14:	Open profile page
+
+STEP 4	2020.10.29 19:04:22:	Set API request to add a post
+INFO	2020.10.29 19:04:23  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:04:27:	Edit post text and add image attachment
+INFO	2020.10.29 19:04:27  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:04:27:	Add comment to a post
+INFO	2020.10.29 19:04:27  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:04:27:	Like post
+
+STEP 1	2020.10.29 19:09:00:	Open login page
+
+STEP 2	2020.10.29 19:09:03:	Login
+
+STEP 3	2020.10.29 19:09:03:	Open profile page
+
+STEP 4	2020.10.29 19:09:08:	Set API request to add a post
+INFO	2020.10.29 19:09:09  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:09:12:	Edit post text and add image attachment
+INFO	2020.10.29 19:09:12  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:09:12:	Add comment to a post
+INFO	2020.10.29 19:09:12  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:09:13:	Like post
+
+STEP 1	2020.10.29 19:09:59:	Open login page
+
+STEP 2	2020.10.29 19:10:02:	Login
+
+STEP 3	2020.10.29 19:10:04:	Open profile page
+
+STEP 4	2020.10.29 19:10:08:	Set API request to add a post
+INFO	2020.10.29 19:10:10  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:10:14:	Edit post text and add image attachment
+INFO	2020.10.29 19:10:14  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:10:15:	Add comment to a post
+INFO	2020.10.29 19:10:15  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:10:16:	Like post
+
+STEP 1	2020.10.29 19:12:13:	Open login page
+
+STEP 2	2020.10.29 19:12:16:	Login
+
+STEP 3	2020.10.29 19:12:17:	Open profile page
+
+STEP 4	2020.10.29 19:12:23:	Set API request to add a post
+INFO	2020.10.29 19:12:24  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:12:29:	Edit post text and add image attachment
+INFO	2020.10.29 19:12:29  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:12:29:	Add comment to a post
+INFO	2020.10.29 19:12:29  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:12:31:	Like post
+
+STEP 1	2020.10.29 19:15:01:	Open login page
+
+STEP 2	2020.10.29 19:15:03:	Login
+
+STEP 3	2020.10.29 19:15:04:	Open profile page
+
+STEP 4	2020.10.29 19:15:08:	Set API request to add a post
+INFO	2020.10.29 19:15:09  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:15:13:	Edit post text and add image attachment
+INFO	2020.10.29 19:15:13  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:15:13:	Add comment to a post
+INFO	2020.10.29 19:15:13  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:15:15:	Like post
+
+STEP 1	2020.10.29 19:16:18:	Open login page
+
+STEP 2	2020.10.29 19:16:21:	Login
+
+STEP 3	2020.10.29 19:16:22:	Open profile page
+
+STEP 4	2020.10.29 19:16:28:	Set API request to add a post
+INFO	2020.10.29 19:16:29  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:16:33:	Edit post text and add image attachment
+INFO	2020.10.29 19:16:33  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:16:34:	Add comment to a post
+INFO	2020.10.29 19:16:34  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:16:35:	Like post
+
+STEP 1	2020.10.29 19:29:09:	Open login page
+
+STEP 2	2020.10.29 19:29:23:	Login
+
+STEP 3	2020.10.29 19:29:27:	Open profile page
+
+STEP 4	2020.10.29 19:29:50:	Set API request to add a post
+INFO	2020.10.29 19:29:56  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:30:13:	Edit post text and add image attachment
+INFO	2020.10.29 19:30:13  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:30:13:	Add comment to a post
+INFO	2020.10.29 19:30:13  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:30:18:	Like post
+
+STEP 1	2020.10.29 19:44:01:	Open login page
+
+STEP 2	2020.10.29 19:44:03:	Login
+
+STEP 3	2020.10.29 19:44:04:	Open profile page
+
+STEP 4	2020.10.29 19:44:06:	Set API request to add a post
+INFO	2020.10.29 19:44:08  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:44:10:	Edit post text and add image attachment
+INFO	2020.10.29 19:44:10  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:44:10:	Add comment to a post
+INFO	2020.10.29 19:44:10  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:44:12:	Like post
+
+STEP 1	2020.10.29 19:45:50:	Open login page
+
+STEP 2	2020.10.29 19:45:52:	Login
+
+STEP 3	2020.10.29 19:45:53:	Open profile page
+
+STEP 4	2020.10.29 19:45:57:	Set API request to add a post
+INFO	2020.10.29 19:45:58  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:46:00:	Edit post text and add image attachment
+INFO	2020.10.29 19:46:00  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:46:00:	Add comment to a post
+INFO	2020.10.29 19:46:00  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:46:01:	Like post
+
+STEP 1	2020.10.29 19:48:09:	Open login page
+
+STEP 2	2020.10.29 19:48:11:	Login
+
+STEP 3	2020.10.29 19:48:12:	Open profile page
+
+STEP 4	2020.10.29 19:48:16:	Set API request to add a post
+INFO	2020.10.29 19:48:17  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:48:19:	Edit post text and add image attachment
+INFO	2020.10.29 19:48:19  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:48:19:	Add comment to a post
+INFO	2020.10.29 19:48:19  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:48:20:	Like post
+
+STEP 1	2020.10.29 19:49:47:	Open login page
+
+STEP 2	2020.10.29 19:49:48:	Login
+
+STEP 3	2020.10.29 19:49:49:	Open profile page
+
+STEP 4	2020.10.29 19:49:53:	Set API request to add a post
+INFO	2020.10.29 19:49:53  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:49:56:	Edit post text and add image attachment
+INFO	2020.10.29 19:49:56  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:49:56:	Add comment to a post
+INFO	2020.10.29 19:49:56  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:49:57:	Like post
+ERROR	2020.10.29 19:51:12  baseTest.BaseTest:	Browser exception: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 87
+Current browser version is 86.0.4240.111 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7BGGE5T8', ip: '192.168.1.47', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0065ECE3+3337443]
+	Ordinal0 [0x0053F041+2158657]
+	Ordinal0 [0x003C6FA8+618408]
+	Ordinal0 [0x00341D52+73042]
+	Ordinal0 [0x0033E0D8+57560]
+	Ordinal0 [0x0033C38A+50058]
+	Ordinal0 [0x00365E8E+220814]
+	Ordinal0 [0x00365BFC+220156]
+	Ordinal0 [0x0036181B+202779]
+	Ordinal0 [0x00343D74+81268]
+	Ordinal0 [0x00344D6E+85358]
+	Ordinal0 [0x00344CF9+85241]
+	Ordinal0 [0x00556F2C+2256684]
+	GetHandleVerifier [0x007E2FAC+1478332]
+	GetHandleVerifier [0x007E2AFD+1477133]
+	GetHandleVerifier [0x007EAAD8+1509864]
+	GetHandleVerifier [0x007E369E+1480110]
+	Ordinal0 [0x0054D6BD+2217661]
+	Ordinal0 [0x005589AB+2263467]
+	Ordinal0 [0x00558AEF+2263791]
+	Ordinal0 [0x0056D363+2347875]
+	BaseThreadInitThunk [0x754AFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776375F4+228]
+	RtlGetAppContainerNamedObjectPath [0x776375C4+180]
+
+
+STEP 1	2020.10.29 19:51:12:	Open login page
+
+STEP 1	2020.10.29 19:51:27:	Open login page
+
+STEP 2	2020.10.29 19:51:29:	Login
+
+STEP 3	2020.10.29 19:51:29:	Open profile page
+
+STEP 1	2020.10.29 19:53:12:	Open login page
+
+STEP 2	2020.10.29 19:53:14:	Login
+
+STEP 3	2020.10.29 19:53:14:	Open profile page
+
+STEP 4	2020.10.29 19:53:16:	Set API request to add a post
+INFO	2020.10.29 19:53:17  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:53:20:	Edit post text and add image attachment
+INFO	2020.10.29 19:53:20  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:53:20:	Add comment to a post
+INFO	2020.10.29 19:53:20  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:53:21:	Like post
+
+STEP 1	2020.10.29 19:54:47:	Open login page
+
+STEP 2	2020.10.29 19:54:48:	Login
+
+STEP 3	2020.10.29 19:54:49:	Open profile page
+
+STEP 4	2020.10.29 19:54:51:	Set API request to add a post
+INFO	2020.10.29 19:54:52  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:54:55:	Edit post text and add image attachment
+INFO	2020.10.29 19:54:55  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:54:56:	Add comment to a post
+INFO	2020.10.29 19:54:56  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:54:56:	Like post
+
+STEP 1	2020.10.29 19:56:13:	Open login page
+
+STEP 2	2020.10.29 19:56:15:	Login
+
+STEP 3	2020.10.29 19:56:15:	Open profile page
+
+STEP 4	2020.10.29 19:56:19:	Set API request to add a post
+INFO	2020.10.29 19:56:20  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 19:56:22:	Edit post text and add image attachment
+INFO	2020.10.29 19:56:22  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 19:56:23:	Add comment to a post
+INFO	2020.10.29 19:56:23  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 19:56:23:	Like post
+
+STEP 1	2020.10.29 20:09:52:	Open login page
+
+STEP 2	2020.10.29 20:09:54:	Login
+
+STEP 3	2020.10.29 20:09:54:	Open profile page
+
+STEP 4	2020.10.29 20:09:57:	Set API request to add a post
+INFO	2020.10.29 20:09:58  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 20:10:01:	Edit post text and add image attachment
+INFO	2020.10.29 20:10:01  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 20:10:01:	Add comment to a post
+INFO	2020.10.29 20:10:01  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 20:10:02:	Like post
+
+STEP 1	2020.10.29 20:11:19:	Open login page
+
+STEP 2	2020.10.29 20:11:21:	Login
+
+STEP 3	2020.10.29 20:11:22:	Open profile page
+
+STEP 4	2020.10.29 20:11:25:	Set API request to add a post
+INFO	2020.10.29 20:11:26  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 20:11:28:	Edit post text and add image attachment
+INFO	2020.10.29 20:11:28  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 20:11:29:	Add comment to a post
+INFO	2020.10.29 20:11:29  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 20:11:29:	Like post
+
+STEP 1	2020.10.29 20:41:18:	Open login page
+
+STEP 2	2020.10.29 20:41:20:	Login
+
+STEP 3	2020.10.29 20:41:20:	Open profile page
+
+STEP 4	2020.10.29 20:41:24:	Set API request to add a post
+INFO	2020.10.29 20:41:25  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 20:41:27:	Edit post text and add image attachment
+INFO	2020.10.29 20:41:27  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 20:41:28:	Add comment to a post
+INFO	2020.10.29 20:41:28  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 20:41:28:	Like post
+
+STEP 1	2020.10.29 20:44:46:	Open login page
+
+STEP 2	2020.10.29 20:44:48:	Login
+
+STEP 3	2020.10.29 20:44:48:	Open profile page
+
+STEP 4	2020.10.29 20:44:52:	Set API request to add a post
+INFO	2020.10.29 20:44:53  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 20:44:55:	Edit post text and add image attachment
+INFO	2020.10.29 20:44:55  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 20:44:55:	Add comment to a post
+INFO	2020.10.29 20:44:55  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 20:44:56:	Like post
+
+STEP 1	2020.10.29 20:50:11:	Open login page
+
+STEP 2	2020.10.29 20:50:13:	Login
+
+STEP 3	2020.10.29 20:50:13:	Open profile page
+
+STEP 4	2020.10.29 20:50:16:	Set API request to add a post
+INFO	2020.10.29 20:50:17  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 20:50:20:	Edit post text and add image attachment
+INFO	2020.10.29 20:50:20  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 20:50:20:	Add comment to a post
+INFO	2020.10.29 20:50:20  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 20:50:21:	Like post
+
+STEP 1	2020.10.29 20:51:32:	Open login page
+
+STEP 2	2020.10.29 20:51:34:	Login
+
+STEP 3	2020.10.29 20:51:35:	Open profile page
+
+STEP 4	2020.10.29 20:51:38:	Set API request to add a post
+INFO	2020.10.29 20:51:39  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.29 20:51:41:	Edit post text and add image attachment
+INFO	2020.10.29 20:51:41  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.29 20:51:41:	Add comment to a post
+INFO	2020.10.29 20:51:41  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.29 20:51:42:	Like post
+
+STEP 1	2020.10.30 17:07:09:	Open login page
+
+STEP 2	2020.10.30 17:07:11:	Login
+
+STEP 3	2020.10.30 17:07:12:	Open profile page
+
+STEP 4	2020.10.30 17:07:16:	Set API request to add a post
+INFO	2020.10.30 17:07:17  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 17:07:20:	Edit post text and add image attachment
+INFO	2020.10.30 17:07:20  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 17:07:20:	Add comment to a post
+INFO	2020.10.30 17:07:20  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 17:07:21:	Like post
+
+STEP 1	2020.10.30 17:09:38:	Open login page
+
+STEP 2	2020.10.30 17:09:40:	Login
+
+STEP 3	2020.10.30 17:09:40:	Open profile page
+
+STEP 4	2020.10.30 17:09:44:	Set API request to add a post
+INFO	2020.10.30 17:09:45  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 17:09:48:	Edit post text and add image attachment
+INFO	2020.10.30 17:09:48  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 17:09:48:	Add comment to a post
+INFO	2020.10.30 17:09:48  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 17:09:48:	Like post
+
+STEP 1	2020.10.30 17:27:20:	Open login page
+
+STEP 2	2020.10.30 17:27:22:	Login
+
+STEP 3	2020.10.30 17:27:23:	Open profile page
+
+STEP 4	2020.10.30 17:27:26:	Set API request to add a post
+INFO	2020.10.30 17:27:26  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 17:27:29:	Edit post text and add image attachment
+INFO	2020.10.30 17:27:29  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 17:27:29:	Add comment to a post
+INFO	2020.10.30 17:27:29  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 17:27:30:	Like post
+
+STEP 1	2020.10.30 17:29:31:	Open login page
+
+STEP 2	2020.10.30 17:29:33:	Login
+
+STEP 3	2020.10.30 17:29:34:	Open profile page
+
+STEP 4	2020.10.30 17:29:38:	Set API request to add a post
+INFO	2020.10.30 17:29:38  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 17:29:41:	Edit post text and add image attachment
+INFO	2020.10.30 17:29:41  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 17:29:41:	Add comment to a post
+INFO	2020.10.30 17:29:41  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 17:29:42:	Like post
+
+STEP 1	2020.10.30 17:30:54:	Open login page
+
+STEP 2	2020.10.30 17:30:56:	Login
+
+STEP 3	2020.10.30 17:30:57:	Open profile page
+
+STEP 4	2020.10.30 17:31:01:	Set API request to add a post
+INFO	2020.10.30 17:31:02  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 17:31:05:	Edit post text and add image attachment
+INFO	2020.10.30 17:31:05  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 17:31:05:	Add comment to a post
+INFO	2020.10.30 17:31:05  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 17:31:07:	Like post
+
+STEP 1	2020.10.30 17:35:49:	Open login page
+
+STEP 2	2020.10.30 17:35:51:	Login
+
+STEP 3	2020.10.30 17:35:52:	Open profile page
+
+STEP 4	2020.10.30 17:35:56:	Set API request to add a post
+INFO	2020.10.30 17:35:56  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.30 17:36:55:	Open login page
+
+STEP 2	2020.10.30 17:36:57:	Login
+
+STEP 3	2020.10.30 17:36:58:	Open profile page
+
+STEP 4	2020.10.30 17:37:01:	Set API request to add a post
+INFO	2020.10.30 17:37:02  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.30 17:38:32:	Open login page
+
+STEP 2	2020.10.30 17:38:34:	Login
+
+STEP 3	2020.10.30 17:38:35:	Open profile page
+
+STEP 4	2020.10.30 17:38:39:	Set API request to add a post
+INFO	2020.10.30 17:38:39  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.30 17:42:35:	Open login page
+
+STEP 2	2020.10.30 17:42:36:	Login
+
+STEP 3	2020.10.30 17:42:37:	Open profile page
+
+STEP 4	2020.10.30 17:42:40:	Set API request to add a post
+INFO	2020.10.30 17:42:41  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.30 17:43:59:	Open login page
+
+STEP 2	2020.10.30 17:44:01:	Login
+
+STEP 3	2020.10.30 17:44:02:	Open profile page
+
+STEP 4	2020.10.30 17:44:05:	Set API request to add a post
+INFO	2020.10.30 17:44:05  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.30 17:47:04:	Open login page
+
+STEP 2	2020.10.30 17:47:06:	Login
+
+STEP 3	2020.10.30 17:47:07:	Open profile page
+
+STEP 4	2020.10.30 17:47:11:	Set API request to add a post
+INFO	2020.10.30 17:47:12  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.10.30 17:48:33:	Open login page
+
+STEP 2	2020.10.30 17:48:35:	Login
+
+STEP 3	2020.10.30 17:48:35:	Open profile page
+
+STEP 4	2020.10.30 17:48:40:	Set API request to add a post
+INFO	2020.10.30 17:48:40  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 17:48:44:	Edit post text and add image attachment
+INFO	2020.10.30 17:48:44  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 17:48:45:	Add comment to a post
+INFO	2020.10.30 17:48:45  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 17:48:46:	Like post
+
+STEP 1	2020.10.30 17:51:21:	Open login page
+
+STEP 2	2020.10.30 17:51:24:	Login
+
+STEP 3	2020.10.30 17:51:25:	Open profile page
+
+STEP 4	2020.10.30 17:51:30:	Set API request to add a post
+INFO	2020.10.30 17:51:31  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 17:51:36:	Edit post text and add image attachment
+INFO	2020.10.30 17:51:36  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 17:51:37:	Add comment to a post
+INFO	2020.10.30 17:51:37  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 17:51:39:	Like post
+
+STEP 1	2020.10.30 17:56:42:	Open login page
+
+STEP 2	2020.10.30 17:56:45:	Login
+
+STEP 3	2020.10.30 17:56:46:	Open profile page
+
+STEP 4	2020.10.30 17:56:50:	Set API request to add a post
+INFO	2020.10.30 17:56:51  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 17:56:55:	Edit post text and add image attachment
+INFO	2020.10.30 17:56:55  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 17:56:55:	Add comment to a post
+INFO	2020.10.30 17:56:55  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 17:56:57:	Like post
+
+STEP 1	2020.10.30 17:58:14:	Open login page
+
+STEP 2	2020.10.30 17:58:17:	Login
+
+STEP 3	2020.10.30 17:58:17:	Open profile page
+
+STEP 4	2020.10.30 17:58:22:	Set API request to add a post
+INFO	2020.10.30 17:58:23  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 17:58:27:	Edit post text and add image attachment
+INFO	2020.10.30 17:58:27  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 17:58:28:	Add comment to a post
+INFO	2020.10.30 17:58:28  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 17:58:30:	Like post
+
+STEP 1	2020.10.30 18:00:01:	Open login page
+
+STEP 2	2020.10.30 18:00:05:	Login
+
+STEP 3	2020.10.30 18:00:05:	Open profile page
+
+STEP 4	2020.10.30 18:00:11:	Set API request to add a post
+INFO	2020.10.30 18:00:12  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:00:16:	Edit post text and add image attachment
+INFO	2020.10.30 18:00:16  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:00:17:	Add comment to a post
+INFO	2020.10.30 18:00:17  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:00:18:	Like post
+
+STEP 1	2020.10.30 18:01:38:	Open login page
+
+STEP 2	2020.10.30 18:01:40:	Login
+
+STEP 3	2020.10.30 18:01:41:	Open profile page
+
+STEP 4	2020.10.30 18:01:47:	Set API request to add a post
+INFO	2020.10.30 18:01:48  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:01:51:	Edit post text and add image attachment
+INFO	2020.10.30 18:01:51  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:01:52:	Add comment to a post
+INFO	2020.10.30 18:01:52  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:01:52:	Like post
+
+STEP 1	2020.10.30 18:02:39:	Open login page
+
+STEP 2	2020.10.30 18:02:43:	Login
+
+STEP 3	2020.10.30 18:02:43:	Open profile page
+
+STEP 4	2020.10.30 18:02:47:	Set API request to add a post
+INFO	2020.10.30 18:02:49  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:02:52:	Edit post text and add image attachment
+INFO	2020.10.30 18:02:52  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:02:52:	Add comment to a post
+INFO	2020.10.30 18:02:52  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:02:53:	Like post
+
+STEP 1	2020.10.30 18:08:54:	Open login page
+
+STEP 2	2020.10.30 18:08:57:	Login
+
+STEP 3	2020.10.30 18:08:57:	Open profile page
+
+STEP 4	2020.10.30 18:09:01:	Set API request to add a post
+INFO	2020.10.30 18:09:02  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:09:04:	Edit post text and add image attachment
+INFO	2020.10.30 18:09:04  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:09:04:	Add comment to a post
+INFO	2020.10.30 18:09:04  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:09:05:	Like post
+
+STEP 1	2020.10.30 18:10:14:	Open login page
+
+STEP 2	2020.10.30 18:10:17:	Login
+
+STEP 3	2020.10.30 18:10:17:	Open profile page
+
+STEP 4	2020.10.30 18:10:21:	Set API request to add a post
+INFO	2020.10.30 18:10:22  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:10:25:	Edit post text and add image attachment
+INFO	2020.10.30 18:10:25  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:10:25:	Add comment to a post
+INFO	2020.10.30 18:10:25  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:10:26:	Like post
+
+STEP 1	2020.10.30 18:12:08:	Open login page
+
+STEP 2	2020.10.30 18:12:10:	Login
+
+STEP 3	2020.10.30 18:12:11:	Open profile page
+
+STEP 4	2020.10.30 18:12:14:	Set API request to add a post
+INFO	2020.10.30 18:12:15  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:12:17:	Edit post text and add image attachment
+INFO	2020.10.30 18:12:17  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:12:17:	Add comment to a post
+INFO	2020.10.30 18:12:17  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:12:18:	Like post
+
+STEP 1	2020.10.30 18:13:11:	Open login page
+
+STEP 2	2020.10.30 18:13:13:	Login
+
+STEP 3	2020.10.30 18:13:13:	Open profile page
+
+STEP 4	2020.10.30 18:13:16:	Set API request to add a post
+INFO	2020.10.30 18:13:17  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:13:19:	Edit post text and add image attachment
+INFO	2020.10.30 18:13:19  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:13:20:	Add comment to a post
+INFO	2020.10.30 18:13:20  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:13:20:	Like post
+
+STEP 1	2020.10.30 18:15:29:	Open login page
+
+STEP 2	2020.10.30 18:15:30:	Login
+
+STEP 3	2020.10.30 18:15:31:	Open profile page
+
+STEP 4	2020.10.30 18:15:34:	Set API request to add a post
+INFO	2020.10.30 18:15:35  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:15:37:	Edit post text and add image attachment
+INFO	2020.10.30 18:15:37  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:15:38:	Add comment to a post
+INFO	2020.10.30 18:15:38  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:15:39:	Like post
+
+STEP 1	2020.10.30 18:22:50:	Open login page
+
+STEP 2	2020.10.30 18:22:52:	Login
+
+STEP 3	2020.10.30 18:22:52:	Open profile page
+
+STEP 4	2020.10.30 18:22:55:	Set API request to add a post
+INFO	2020.10.30 18:22:56  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:22:58:	Edit post text and add image attachment
+INFO	2020.10.30 18:22:58  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:22:58:	Add comment to a post
+INFO	2020.10.30 18:22:58  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:22:59:	Like post
+
+STEP 1	2020.10.30 18:29:15:	Open login page
+
+STEP 2	2020.10.30 18:29:16:	Login
+
+STEP 3	2020.10.30 18:29:17:	Open profile page
+
+STEP 4	2020.10.30 18:29:20:	Set API request to add a post
+INFO	2020.10.30 18:29:20  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:29:23:	Edit post text and add image attachment
+INFO	2020.10.30 18:29:23  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:29:23:	Add comment to a post
+INFO	2020.10.30 18:29:23  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:29:24:	Like post
+
+STEP 1	2020.10.30 18:30:36:	Open login page
+
+STEP 2	2020.10.30 18:30:38:	Login
+
+STEP 3	2020.10.30 18:30:38:	Open profile page
+
+STEP 4	2020.10.30 18:30:42:	Set API request to add a post
+INFO	2020.10.30 18:30:43  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:30:45:	Edit post text and add image attachment
+INFO	2020.10.30 18:30:45  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:30:46:	Add comment to a post
+INFO	2020.10.30 18:30:46  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:30:46:	Like post
+
+STEP 1	2020.10.30 18:33:37:	Open login page
+
+STEP 2	2020.10.30 18:33:39:	Login
+
+STEP 3	2020.10.30 18:33:39:	Open profile page
+
+STEP 4	2020.10.30 18:33:42:	Set API request to add a post
+INFO	2020.10.30 18:33:43  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:33:45:	Edit post text and add image attachment
+INFO	2020.10.30 18:33:45  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:33:45:	Add comment to a post
+INFO	2020.10.30 18:33:45  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:33:46:	Like post
+
+STEP 1	2020.10.30 18:34:31:	Open login page
+
+STEP 2	2020.10.30 18:34:33:	Login
+
+STEP 3	2020.10.30 18:34:33:	Open profile page
+
+STEP 4	2020.10.30 18:34:38:	Set API request to add a post
+INFO	2020.10.30 18:34:38  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:34:41:	Edit post text and add image attachment
+INFO	2020.10.30 18:34:41  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:34:41:	Add comment to a post
+INFO	2020.10.30 18:34:41  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:34:42:	Like post
+
+STEP 1	2020.10.30 18:36:00:	Open login page
+
+STEP 2	2020.10.30 18:36:02:	Login
+
+STEP 3	2020.10.30 18:36:02:	Open profile page
+
+STEP 4	2020.10.30 18:36:05:	Set API request to add a post
+INFO	2020.10.30 18:36:06  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:36:08:	Edit post text and add image attachment
+INFO	2020.10.30 18:36:08  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:36:09:	Add comment to a post
+INFO	2020.10.30 18:36:09  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:36:09:	Like post
+
+STEP 1	2020.10.30 18:37:50:	Open login page
+
+STEP 2	2020.10.30 18:37:51:	Login
+
+STEP 3	2020.10.30 18:37:52:	Open profile page
+
+STEP 4	2020.10.30 18:37:55:	Set API request to add a post
+INFO	2020.10.30 18:37:56  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:37:58:	Edit post text and add image attachment
+INFO	2020.10.30 18:37:58  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:37:58:	Add comment to a post
+INFO	2020.10.30 18:37:58  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:37:59:	Like post
+
+STEP 1	2020.10.30 18:39:59:	Open login page
+
+STEP 2	2020.10.30 18:40:00:	Login
+
+STEP 3	2020.10.30 18:40:01:	Open profile page
+
+STEP 4	2020.10.30 18:40:04:	Set API request to add a post
+INFO	2020.10.30 18:40:04  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:40:07:	Edit post text and add image attachment
+INFO	2020.10.30 18:40:07  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:40:07:	Add comment to a post
+INFO	2020.10.30 18:40:07  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:40:09:	Like post
+
+STEP 1	2020.10.30 18:47:08:	Open login page
+
+STEP 2	2020.10.30 18:47:10:	Login
+
+STEP 3	2020.10.30 18:47:10:	Open profile page
+
+STEP 4	2020.10.30 18:47:13:	Set API request to add a post
+INFO	2020.10.30 18:47:14  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:47:16:	Edit post text and add image attachment
+INFO	2020.10.30 18:47:16  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:47:16:	Add comment to a post
+INFO	2020.10.30 18:47:16  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:47:17:	Like post
+
+STEP 1	2020.10.30 18:49:46:	Open login page
+
+STEP 2	2020.10.30 18:49:47:	Login
+
+STEP 3	2020.10.30 18:49:48:	Open profile page
+
+STEP 4	2020.10.30 18:49:51:	Set API request to add a post
+INFO	2020.10.30 18:49:51  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:49:54:	Edit post text and add image attachment
+INFO	2020.10.30 18:49:54  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:49:55:	Add comment to a post
+INFO	2020.10.30 18:49:55  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:49:55:	Like post
+
+STEP 1	2020.10.30 18:52:25:	Open login page
+
+STEP 2	2020.10.30 18:52:27:	Login
+
+STEP 3	2020.10.30 18:52:28:	Open profile page
+
+STEP 4	2020.10.30 18:52:31:	Set API request to add a post
+INFO	2020.10.30 18:52:31  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:52:34:	Edit post text and add image attachment
+INFO	2020.10.30 18:52:34  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:52:34:	Add comment to a post
+INFO	2020.10.30 18:52:34  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:52:35:	Like post
+
+STEP 1	2020.10.30 18:54:20:	Open login page
+
+STEP 2	2020.10.30 18:54:22:	Login
+
+STEP 3	2020.10.30 18:54:23:	Open profile page
+
+STEP 4	2020.10.30 18:54:26:	Set API request to add a post
+INFO	2020.10.30 18:54:27  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:54:29:	Edit post text and add image attachment
+INFO	2020.10.30 18:54:29  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:54:29:	Add comment to a post
+INFO	2020.10.30 18:54:29  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:54:30:	Like post
+
+STEP 1	2020.10.30 18:55:09:	Open login page
+
+STEP 2	2020.10.30 18:55:11:	Login
+
+STEP 3	2020.10.30 18:55:11:	Open profile page
+
+STEP 4	2020.10.30 18:55:14:	Set API request to add a post
+INFO	2020.10.30 18:55:15  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 18:55:18:	Edit post text and add image attachment
+INFO	2020.10.30 18:55:18  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 18:55:18:	Add comment to a post
+INFO	2020.10.30 18:55:18  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 18:55:18:	Like post
+
+STEP 1	2020.10.30 19:00:26:	Open login page
+
+STEP 2	2020.10.30 19:00:31:	Login
+
+STEP 3	2020.10.30 19:00:32:	Open profile page
+
+STEP 4	2020.10.30 19:00:36:	Set API request to add a post
+INFO	2020.10.30 19:00:37  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 19:00:40:	Edit post text and add image attachment
+INFO	2020.10.30 19:00:40  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 19:00:40:	Add comment to a post
+INFO	2020.10.30 19:00:40  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 19:00:41:	Like post
+
+STEP 1	2020.10.30 19:02:26:	Open login page
+
+STEP 2	2020.10.30 19:02:28:	Login
+
+STEP 3	2020.10.30 19:02:28:	Open profile page
+
+STEP 4	2020.10.30 19:02:32:	Set API request to add a post
+INFO	2020.10.30 19:02:33  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 19:02:36:	Edit post text and add image attachment
+INFO	2020.10.30 19:02:36  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 19:02:36:	Add comment to a post
+INFO	2020.10.30 19:02:36  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 19:02:37:	Like post
+
+STEP 1	2020.10.30 19:03:12:	Open login page
+
+STEP 2	2020.10.30 19:03:14:	Login
+
+STEP 3	2020.10.30 19:03:15:	Open profile page
+
+STEP 4	2020.10.30 19:03:18:	Set API request to add a post
+INFO	2020.10.30 19:03:18  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 19:03:21:	Edit post text and add image attachment
+INFO	2020.10.30 19:03:21  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 19:03:21:	Add comment to a post
+INFO	2020.10.30 19:03:21  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 19:03:22:	Like post
+
+STEP 1	2020.10.30 19:05:03:	Open login page
+
+STEP 2	2020.10.30 19:05:04:	Login
+
+STEP 3	2020.10.30 19:05:05:	Open profile page
+
+STEP 4	2020.10.30 19:05:08:	Set API request to add a post
+INFO	2020.10.30 19:05:08  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 19:05:11:	Edit post text and add image attachment
+INFO	2020.10.30 19:05:11  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 19:05:11:	Add comment to a post
+INFO	2020.10.30 19:05:11  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 19:05:12:	Like post
+
+STEP 1	2020.10.30 19:06:29:	Open login page
+
+STEP 2	2020.10.30 19:06:30:	Login
+
+STEP 3	2020.10.30 19:06:31:	Open profile page
+
+STEP 4	2020.10.30 19:06:33:	Set API request to add a post
+INFO	2020.10.30 19:06:34  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 19:06:36:	Edit post text and add image attachment
+INFO	2020.10.30 19:06:36  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 19:06:36:	Add comment to a post
+INFO	2020.10.30 19:06:36  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 19:06:37:	Like post
+
+STEP 1	2020.10.30 19:17:16:	Open login page
+
+STEP 2	2020.10.30 19:17:18:	Login
+
+STEP 3	2020.10.30 19:17:19:	Open profile page
+
+STEP 4	2020.10.30 19:17:21:	Set API request to add a post
+INFO	2020.10.30 19:17:22  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 19:17:24:	Edit post text and add image attachment
+INFO	2020.10.30 19:17:24  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 19:17:24:	Add comment to a post
+INFO	2020.10.30 19:17:24  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 19:17:25:	Like post
+
+STEP 1	2020.10.30 19:24:32:	Open login page
+
+STEP 2	2020.10.30 19:24:34:	Login
+
+STEP 3	2020.10.30 19:24:35:	Open profile page
+
+STEP 4	2020.10.30 19:24:38:	Set API request to add a post
+INFO	2020.10.30 19:24:39  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.10.30 19:24:41:	Edit post text and add image attachment
+INFO	2020.10.30 19:24:41  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.10.30 19:24:41:	Add comment to a post
+INFO	2020.10.30 19:24:41  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.10.30 19:24:42:	Like post
+
+STEP 1	2020.11.02 15:35:36:	Open login page
+
+STEP 2	2020.11.02 15:35:38:	Login
+
+STEP 3	2020.11.02 15:35:39:	Open profile page
+
+STEP 4	2020.11.02 15:35:44:	Set API request to add a post
+INFO	2020.11.02 15:35:45  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 15:35:48:	Edit post text and add image attachment
+INFO	2020.11.02 15:35:48  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 15:35:48:	Add comment to a post
+INFO	2020.11.02 15:35:48  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 15:35:49:	Like post
+
+STEP 1	2020.11.02 15:37:44:	Open login page
+
+STEP 2	2020.11.02 15:37:47:	Login
+
+STEP 3	2020.11.02 15:37:47:	Open profile page
+
+STEP 4	2020.11.02 15:37:51:	Set API request to add a post
+INFO	2020.11.02 15:37:52  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 15:37:54:	Edit post text and add image attachment
+INFO	2020.11.02 15:37:54  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 15:37:55:	Add comment to a post
+INFO	2020.11.02 15:37:55  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 15:37:55:	Like post
+
+STEP 1	2020.11.02 15:39:28:	Open login page
+
+STEP 2	2020.11.02 15:39:30:	Login
+
+STEP 3	2020.11.02 15:39:30:	Open profile page
+
+STEP 4	2020.11.02 15:39:33:	Set API request to add a post
+INFO	2020.11.02 15:39:34  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 15:39:37:	Edit post text and add image attachment
+INFO	2020.11.02 15:39:37  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 15:39:37:	Add comment to a post
+INFO	2020.11.02 15:39:37  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 15:39:38:	Like post
+
+STEP 1	2020.11.02 15:51:38:	Open login page
+
+STEP 2	2020.11.02 15:51:40:	Login
+
+STEP 3	2020.11.02 15:51:40:	Open profile page
+
+STEP 4	2020.11.02 15:51:44:	Set API request to add a post
+INFO	2020.11.02 15:51:44  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 15:51:47:	Edit post text and add image attachment
+INFO	2020.11.02 15:51:47  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 15:51:47:	Add comment to a post
+INFO	2020.11.02 15:51:47  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 15:51:48:	Like post
+
+STEP 1	2020.11.02 15:52:30:	Open login page
+
+STEP 2	2020.11.02 15:52:32:	Login
+
+STEP 3	2020.11.02 15:52:32:	Open profile page
+
+STEP 4	2020.11.02 15:52:36:	Set API request to add a post
+INFO	2020.11.02 15:52:37  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 15:52:40:	Edit post text and add image attachment
+INFO	2020.11.02 15:52:40  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 15:52:40:	Add comment to a post
+INFO	2020.11.02 15:52:40  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 15:52:41:	Like post
+
+STEP 1	2020.11.02 15:54:30:	Open login page
+
+STEP 2	2020.11.02 15:54:32:	Login
+
+STEP 3	2020.11.02 15:54:33:	Open profile page
+
+STEP 4	2020.11.02 15:54:36:	Set API request to add a post
+INFO	2020.11.02 15:54:37  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 15:54:40:	Edit post text and add image attachment
+INFO	2020.11.02 15:54:40  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 15:54:40:	Add comment to a post
+INFO	2020.11.02 15:54:40  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 15:54:41:	Like post
+
+STEP 1	2020.11.02 15:56:58:	Open login page
+
+STEP 2	2020.11.02 15:57:00:	Login
+
+STEP 3	2020.11.02 15:57:00:	Open profile page
+
+STEP 4	2020.11.02 15:57:03:	Set API request to add a post
+INFO	2020.11.02 15:57:04  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 15:57:07:	Edit post text and add image attachment
+INFO	2020.11.02 15:57:07  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 15:57:07:	Add comment to a post
+INFO	2020.11.02 15:57:07  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 15:57:08:	Like post
+
+STEP 1	2020.11.02 15:58:59:	Open login page
+
+STEP 2	2020.11.02 15:59:01:	Login
+
+STEP 3	2020.11.02 15:59:01:	Open profile page
+
+STEP 4	2020.11.02 15:59:04:	Set API request to add a post
+INFO	2020.11.02 15:59:05  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 15:59:09:	Edit post text and add image attachment
+INFO	2020.11.02 15:59:09  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 15:59:09:	Add comment to a post
+INFO	2020.11.02 15:59:09  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 15:59:11:	Like post
+
+STEP 1	2020.11.02 15:59:45:	Open login page
+
+STEP 2	2020.11.02 15:59:48:	Login
+
+STEP 3	2020.11.02 15:59:48:	Open profile page
+
+STEP 4	2020.11.02 15:59:52:	Set API request to add a post
+INFO	2020.11.02 15:59:52  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 15:59:55:	Edit post text and add image attachment
+INFO	2020.11.02 15:59:55  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 15:59:55:	Add comment to a post
+INFO	2020.11.02 15:59:55  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 15:59:57:	Like post
+
+STEP 1	2020.11.02 16:00:43:	Open login page
+
+STEP 2	2020.11.02 16:00:45:	Login
+
+STEP 3	2020.11.02 16:00:46:	Open profile page
+
+STEP 4	2020.11.02 16:00:49:	Set API request to add a post
+INFO	2020.11.02 16:00:49  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:00:52:	Edit post text and add image attachment
+INFO	2020.11.02 16:00:52  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:00:52:	Add comment to a post
+INFO	2020.11.02 16:00:52  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:00:53:	Like post
+
+STEP 1	2020.11.02 16:01:39:	Open login page
+
+STEP 2	2020.11.02 16:01:42:	Login
+
+STEP 3	2020.11.02 16:01:43:	Open profile page
+
+STEP 4	2020.11.02 16:01:46:	Set API request to add a post
+INFO	2020.11.02 16:01:47  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:01:51:	Edit post text and add image attachment
+INFO	2020.11.02 16:01:51  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:01:51:	Add comment to a post
+INFO	2020.11.02 16:01:51  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:01:52:	Like post
+
+STEP 1	2020.11.02 16:02:34:	Open login page
+
+STEP 2	2020.11.02 16:02:38:	Login
+
+STEP 3	2020.11.02 16:02:38:	Open profile page
+
+STEP 4	2020.11.02 16:02:43:	Set API request to add a post
+INFO	2020.11.02 16:02:44  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:02:46:	Edit post text and add image attachment
+INFO	2020.11.02 16:02:46  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:02:47:	Add comment to a post
+INFO	2020.11.02 16:02:47  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:02:47:	Like post
+
+STEP 1	2020.11.02 16:04:33:	Open login page
+
+STEP 2	2020.11.02 16:04:36:	Login
+
+STEP 3	2020.11.02 16:04:36:	Open profile page
+
+STEP 4	2020.11.02 16:04:41:	Set API request to add a post
+INFO	2020.11.02 16:04:41  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:04:45:	Edit post text and add image attachment
+INFO	2020.11.02 16:04:45  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:04:45:	Add comment to a post
+INFO	2020.11.02 16:04:45  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:04:46:	Like post
+
+STEP 1	2020.11.02 16:07:55:	Open login page
+
+STEP 2	2020.11.02 16:07:57:	Login
+
+STEP 3	2020.11.02 16:07:58:	Open profile page
+
+STEP 4	2020.11.02 16:08:01:	Set API request to add a post
+INFO	2020.11.02 16:08:01  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:08:04:	Edit post text and add image attachment
+INFO	2020.11.02 16:08:04  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:08:04:	Add comment to a post
+INFO	2020.11.02 16:08:04  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:08:05:	Like post
+
+STEP 1	2020.11.02 16:09:30:	Open login page
+
+STEP 2	2020.11.02 16:09:31:	Login
+
+STEP 3	2020.11.02 16:09:32:	Open profile page
+
+STEP 4	2020.11.02 16:09:35:	Set API request to add a post
+INFO	2020.11.02 16:09:36  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:09:38:	Edit post text and add image attachment
+INFO	2020.11.02 16:09:38  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:09:38:	Add comment to a post
+INFO	2020.11.02 16:09:38  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:09:39:	Like post
+
+STEP 1	2020.11.02 16:11:56:	Open login page
+
+STEP 2	2020.11.02 16:11:58:	Login
+
+STEP 3	2020.11.02 16:11:59:	Open profile page
+
+STEP 4	2020.11.02 16:12:02:	Set API request to add a post
+INFO	2020.11.02 16:12:03  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:12:05:	Edit post text and add image attachment
+INFO	2020.11.02 16:12:05  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:12:05:	Add comment to a post
+INFO	2020.11.02 16:12:05  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:12:06:	Like post
+
+STEP 1	2020.11.02 16:13:11:	Open login page
+
+STEP 2	2020.11.02 16:13:13:	Login
+
+STEP 3	2020.11.02 16:13:13:	Open profile page
+
+STEP 4	2020.11.02 16:13:16:	Set API request to add a post
+INFO	2020.11.02 16:13:17  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:13:20:	Edit post text and add image attachment
+INFO	2020.11.02 16:13:20  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:13:20:	Add comment to a post
+INFO	2020.11.02 16:13:20  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:13:20:	Like post
+
+STEP 1	2020.11.02 16:14:18:	Open login page
+
+STEP 2	2020.11.02 16:14:19:	Login
+
+STEP 3	2020.11.02 16:14:20:	Open profile page
+
+STEP 4	2020.11.02 16:14:23:	Set API request to add a post
+INFO	2020.11.02 16:14:24  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:14:26:	Edit post text and add image attachment
+INFO	2020.11.02 16:14:26  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:14:27:	Add comment to a post
+INFO	2020.11.02 16:14:27  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:14:27:	Like post
+
+STEP 1	2020.11.02 16:16:00:	Open login page
+
+STEP 2	2020.11.02 16:16:02:	Login
+
+STEP 3	2020.11.02 16:16:03:	Open profile page
+
+STEP 4	2020.11.02 16:16:06:	Set API request to add a post
+INFO	2020.11.02 16:16:07  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:16:09:	Edit post text and add image attachment
+INFO	2020.11.02 16:16:09  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:16:09:	Add comment to a post
+INFO	2020.11.02 16:16:09  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:16:10:	Like post
+
+STEP 1	2020.11.02 16:17:20:	Open login page
+
+STEP 2	2020.11.02 16:17:23:	Login
+
+STEP 3	2020.11.02 16:17:23:	Open profile page
+
+STEP 4	2020.11.02 16:17:26:	Set API request to add a post
+INFO	2020.11.02 16:17:27  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:17:29:	Edit post text and add image attachment
+INFO	2020.11.02 16:17:29  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:17:30:	Add comment to a post
+INFO	2020.11.02 16:17:30  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:17:30:	Like post
+
+STEP 1	2020.11.02 16:18:55:	Open login page
+
+STEP 2	2020.11.02 16:18:57:	Login
+
+STEP 3	2020.11.02 16:18:57:	Open profile page
+
+STEP 4	2020.11.02 16:19:01:	Set API request to add a post
+INFO	2020.11.02 16:19:02  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:19:05:	Edit post text and add image attachment
+INFO	2020.11.02 16:19:05  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:19:05:	Add comment to a post
+INFO	2020.11.02 16:19:05  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:19:06:	Like post
+
+STEP 1	2020.11.02 16:25:52:	Open login page
+
+STEP 2	2020.11.02 16:25:55:	Login
+
+STEP 3	2020.11.02 16:25:55:	Open profile page
+
+STEP 4	2020.11.02 16:25:59:	Set API request to add a post
+INFO	2020.11.02 16:26:00  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:26:04:	Edit post text and add image attachment
+INFO	2020.11.02 16:26:04  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:26:05:	Add comment to a post
+INFO	2020.11.02 16:26:05  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:26:06:	Like post
+
+STEP 1	2020.11.02 16:28:04:	Open login page
+
+STEP 2	2020.11.02 16:28:06:	Login
+
+STEP 3	2020.11.02 16:28:06:	Open profile page
+
+STEP 4	2020.11.02 16:28:09:	Set API request to add a post
+INFO	2020.11.02 16:28:10  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:28:12:	Edit post text and add image attachment
+INFO	2020.11.02 16:28:12  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:28:12:	Add comment to a post
+INFO	2020.11.02 16:28:12  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:28:13:	Like post
+
+STEP 1	2020.11.02 16:29:29:	Open login page
+
+STEP 2	2020.11.02 16:29:30:	Login
+
+STEP 3	2020.11.02 16:29:31:	Open profile page
+
+STEP 4	2020.11.02 16:29:34:	Set API request to add a post
+INFO	2020.11.02 16:29:35  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:29:37:	Edit post text and add image attachment
+INFO	2020.11.02 16:29:37  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:29:37:	Add comment to a post
+INFO	2020.11.02 16:29:37  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:29:38:	Like post
+
+STEP 1	2020.11.02 16:35:26:	Open login page
+
+STEP 2	2020.11.02 16:35:28:	Login
+
+STEP 3	2020.11.02 16:35:29:	Open profile page
+
+STEP 4	2020.11.02 16:35:33:	Set API request to add a post
+INFO	2020.11.02 16:35:33  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:35:37:	Edit post text and add image attachment
+INFO	2020.11.02 16:35:37  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:35:37:	Add comment to a post
+INFO	2020.11.02 16:35:37  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:35:38:	Like post
+
+STEP 1	2020.11.02 16:37:39:	Open login page
+
+STEP 2	2020.11.02 16:37:41:	Login
+
+STEP 3	2020.11.02 16:37:42:	Open profile page
+
+STEP 4	2020.11.02 16:37:46:	Set API request to add a post
+INFO	2020.11.02 16:37:46  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:37:49:	Edit post text and add image attachment
+INFO	2020.11.02 16:37:49  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:37:50:	Add comment to a post
+INFO	2020.11.02 16:37:50  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:37:50:	Like post
+
+STEP 1	2020.11.02 16:40:06:	Open login page
+
+STEP 2	2020.11.02 16:40:07:	Login
+
+STEP 3	2020.11.02 16:40:08:	Open profile page
+
+STEP 4	2020.11.02 16:40:11:	Set API request to add a post
+INFO	2020.11.02 16:40:12  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:40:15:	Edit post text and add image attachment
+INFO	2020.11.02 16:40:15  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:40:16:	Add comment to a post
+INFO	2020.11.02 16:40:16  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:40:17:	Like post
+
+STEP 1	2020.11.02 16:43:59:	Open login page
+
+STEP 2	2020.11.02 16:44:00:	Login
+
+STEP 3	2020.11.02 16:44:01:	Open profile page
+
+STEP 4	2020.11.02 16:44:04:	Set API request to add a post
+INFO	2020.11.02 16:44:05  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:44:08:	Edit post text and add image attachment
+INFO	2020.11.02 16:44:08  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:44:09:	Add comment to a post
+INFO	2020.11.02 16:44:09  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:44:10:	Like post
+
+STEP 1	2020.11.02 16:47:21:	Open login page
+
+STEP 2	2020.11.02 16:47:23:	Login
+
+STEP 3	2020.11.02 16:47:24:	Open profile page
+
+STEP 4	2020.11.02 16:47:28:	Set API request to add a post
+INFO	2020.11.02 16:47:29  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:47:32:	Edit post text and add image attachment
+INFO	2020.11.02 16:47:32  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:47:33:	Add comment to a post
+INFO	2020.11.02 16:47:33  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:47:34:	Like post
+
+STEP 1	2020.11.02 16:48:41:	Open login page
+
+STEP 2	2020.11.02 16:48:43:	Login
+
+STEP 3	2020.11.02 16:48:44:	Open profile page
+
+STEP 4	2020.11.02 16:48:47:	Set API request to add a post
+INFO	2020.11.02 16:48:48  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:48:51:	Edit post text and add image attachment
+INFO	2020.11.02 16:48:51  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:48:51:	Add comment to a post
+INFO	2020.11.02 16:48:51  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:48:53:	Like post
+
+STEP 1	2020.11.02 16:50:04:	Open login page
+
+STEP 2	2020.11.02 16:50:05:	Login
+
+STEP 3	2020.11.02 16:50:05:	Open profile page
+
+STEP 4	2020.11.02 16:50:09:	Set API request to add a post
+INFO	2020.11.02 16:50:10  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:50:14:	Edit post text and add image attachment
+INFO	2020.11.02 16:50:14  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:50:14:	Add comment to a post
+INFO	2020.11.02 16:50:14  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:50:16:	Like post
+
+STEP 1	2020.11.02 16:51:07:	Open login page
+
+STEP 2	2020.11.02 16:51:09:	Login
+
+STEP 3	2020.11.02 16:51:10:	Open profile page
+
+STEP 4	2020.11.02 16:51:15:	Set API request to add a post
+INFO	2020.11.02 16:51:15  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:51:18:	Edit post text and add image attachment
+INFO	2020.11.02 16:51:18  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:51:19:	Add comment to a post
+INFO	2020.11.02 16:51:19  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:51:19:	Like post
+
+STEP 1	2020.11.02 16:52:05:	Open login page
+
+STEP 2	2020.11.02 16:52:07:	Login
+
+STEP 3	2020.11.02 16:52:08:	Open profile page
+
+STEP 4	2020.11.02 16:52:12:	Set API request to add a post
+INFO	2020.11.02 16:52:13  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:52:16:	Edit post text and add image attachment
+INFO	2020.11.02 16:52:16  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:52:16:	Add comment to a post
+INFO	2020.11.02 16:52:16  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:52:17:	Like post
+
+STEP 1	2020.11.02 16:54:00:	Open login page
+
+STEP 2	2020.11.02 16:54:02:	Login
+
+STEP 3	2020.11.02 16:54:03:	Open profile page
+
+STEP 4	2020.11.02 16:54:06:	Set API request to add a post
+INFO	2020.11.02 16:54:07  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:54:10:	Edit post text and add image attachment
+INFO	2020.11.02 16:54:10  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:54:11:	Add comment to a post
+INFO	2020.11.02 16:54:11  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:54:12:	Like post
+
+STEP 1	2020.11.02 16:55:24:	Open login page
+
+STEP 2	2020.11.02 16:55:27:	Login
+
+STEP 3	2020.11.02 16:55:27:	Open profile page
+
+STEP 4	2020.11.02 16:55:31:	Set API request to add a post
+INFO	2020.11.02 16:55:32  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 16:55:35:	Edit post text and add image attachment
+INFO	2020.11.02 16:55:35  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 16:55:36:	Add comment to a post
+INFO	2020.11.02 16:55:36  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 16:55:37:	Like post
+
+STEP 1	2020.11.02 17:08:06:	Open login page
+
+STEP 2	2020.11.02 17:08:09:	Login
+
+STEP 3	2020.11.02 17:08:09:	Open profile page
+
+STEP 4	2020.11.02 17:08:14:	Set API request to add a post
+INFO	2020.11.02 17:08:15  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 17:08:18:	Edit post text and add image attachment
+INFO	2020.11.02 17:08:18  stringsUtils.RandomString:	Generate random text
+
+STEP 1	2020.11.02 17:10:39:	Open login page
+
+STEP 2	2020.11.02 17:10:41:	Login
+
+STEP 3	2020.11.02 17:10:42:	Open profile page
+
+STEP 4	2020.11.02 17:10:48:	Set API request to add a post
+INFO	2020.11.02 17:10:49  stringsUtils.RandomString:	Generate random text
+
+STEP 5	2020.11.02 17:10:53:	Edit post text and add image attachment
+INFO	2020.11.02 17:10:53  stringsUtils.RandomString:	Generate random text
+
+STEP 6	2020.11.02 17:10:56:	Add comment to a post
+INFO	2020.11.02 17:10:56  stringsUtils.RandomString:	Generate random text
+
+STEP 7	2020.11.02 17:10:57:	Like post
+
+STEP 1	2020.11.02 17:45:07:	Open login page
+
+STEP 2	2020.11.02 17:45:11:	Login
+
+STEP 3	2020.11.02 17:45:12:	Open profile page
+
+STEP 4	2020.11.02 17:45:17:	Set API request to add a post
+INFO	2020.11.02 17:45:18  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:45:18  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:45:18  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 17:45:22:	Edit post text and add image attachment
+INFO	2020.11.02 17:45:22  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:45:22  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:45:22  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:45:23  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:45:23  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:45:25  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:45:25  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 6	2020.11.02 17:45:26:	Add comment to a post
+INFO	2020.11.02 17:45:26  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiComment:	Инициализация комментария, установка текста комментария
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 7	2020.11.02 17:45:26:	Like post
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiLike:	Установка типа объекта для лайка
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiLike:	Установка id владельца
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiLike:	Установка id элемента
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiLike:	Установка id пользователя
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiLike:	Формирование запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:45:26  vkApiTests.vkApi.models.VkApiLike:	Отправка запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.02 17:45:27  vkApiTests.vkApi.models.VkApiLike:	Проверка кода наличия лайка
+INFO	2020.11.02 17:45:27  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:45:27  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 17:51:26:	Open login page
+
+STEP 2	2020.11.02 17:51:31:	Login
+
+STEP 3	2020.11.02 17:51:31:	Open profile page
+
+STEP 4	2020.11.02 17:51:35:	Set API request to add a post
+INFO	2020.11.02 17:51:38  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:51:38  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:51:38  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 17:51:41:	Edit post text and add image attachment
+INFO	2020.11.02 17:51:41  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:51:41  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:51:41  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:51:41  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:51:41  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:51:43  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:51:43  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 6	2020.11.02 17:51:43:	Add comment to a post
+INFO	2020.11.02 17:51:43  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:51:43  vkApiTests.vkApi.models.VkApiComment:	Инициализация комментария, установка текста комментария
+INFO	2020.11.02 17:51:43  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:51:43  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 7	2020.11.02 17:51:44:	Like post
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiLike:	Установка типа объекта для лайка
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiLike:	Установка id владельца
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiLike:	Установка id элемента
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiLike:	Установка id пользователя
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiLike:	Формирование запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiLike:	Отправка запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiLike:	Проверка кода наличия лайка
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:51:44  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 17:55:26:	Open login page
+
+STEP 2	2020.11.02 17:55:28:	Login
+
+STEP 3	2020.11.02 17:55:29:	Open profile page
+
+STEP 4	2020.11.02 17:55:33:	Set API request to add a post
+INFO	2020.11.02 17:55:34  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:55:34  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:55:34  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 17:55:38:	Edit post text and add image attachment
+INFO	2020.11.02 17:55:38  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:55:38  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:55:38  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:55:38  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:55:38  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:55:39  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:55:39  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 17:57:46:	Open login page
+
+STEP 2	2020.11.02 17:57:51:	Login
+
+STEP 3	2020.11.02 17:57:51:	Open profile page
+
+STEP 4	2020.11.02 17:57:59:	Set API request to add a post
+INFO	2020.11.02 17:58:00  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:58:00  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:58:00  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 17:58:06:	Edit post text and add image attachment
+INFO	2020.11.02 17:58:06  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 17:58:06  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:58:06  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:58:06  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:58:06  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:58:07  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:58:07  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 17:58:07  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 17:58:07  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 17:59:49:	Open login page
+
+STEP 2	2020.11.02 17:59:55:	Login
+
+STEP 3	2020.11.02 17:59:55:	Open profile page
+
+STEP 4	2020.11.02 18:00:04:	Set API request to add a post
+INFO	2020.11.02 18:00:05  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 18:00:05  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 18:00:05  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 18:00:09:	Edit post text and add image attachment
+INFO	2020.11.02 18:00:09  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 18:00:09  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 18:00:09  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 18:00:15  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 18:00:15  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 18:00:17  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 18:00:17  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 18:07:55:	Open login page
+
+STEP 2	2020.11.02 18:08:00:	Login
+
+STEP 3	2020.11.02 18:08:01:	Open profile page
+
+STEP 4	2020.11.02 18:08:04:	Set API request to add a post
+INFO	2020.11.02 18:08:06  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 18:08:06  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 18:08:06  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 18:08:09:	Edit post text and add image attachment
+INFO	2020.11.02 18:08:09  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 18:08:09  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 18:08:09  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 18:08:09  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 18:08:09  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 18:08:10  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 18:08:10  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 21:33:15:	Open login page
+
+STEP 2	2020.11.02 21:33:16:	Login
+
+STEP 3	2020.11.02 21:33:17:	Open profile page
+
+STEP 4	2020.11.02 21:33:21:	Set API request to add a post
+INFO	2020.11.02 21:33:21  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:33:21  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:33:21  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 21:33:23:	Edit post text and add image attachment
+INFO	2020.11.02 21:33:23  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:33:23  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:33:23  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:33:23  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.02 21:33:23  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.02 21:33:23  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:33:23  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:33:24  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.02 21:33:24  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.02 21:33:24  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.02 21:33:24  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.02 21:33:24  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:33:24  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 21:36:01:	Open login page
+
+STEP 2	2020.11.02 21:36:03:	Login
+
+STEP 3	2020.11.02 21:36:04:	Open profile page
+
+STEP 4	2020.11.02 21:36:08:	Set API request to add a post
+INFO	2020.11.02 21:36:09  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:36:09  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:36:09  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 21:36:11:	Edit post text and add image attachment
+INFO	2020.11.02 21:36:11  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:36:11  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:36:11  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:36:11  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.02 21:36:11  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.02 21:36:11  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:36:11  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:36:11  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.02 21:36:12  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.02 21:36:12  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.02 21:36:12  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.02 21:36:12  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:36:12  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 21:37:44:	Open login page
+
+STEP 2	2020.11.02 21:37:47:	Login
+
+STEP 3	2020.11.02 21:37:48:	Open profile page
+
+STEP 4	2020.11.02 21:37:51:	Set API request to add a post
+INFO	2020.11.02 21:37:52  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:37:52  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:37:52  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 21:37:55:	Edit post text and add image attachment
+INFO	2020.11.02 21:37:55  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:37:55  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 21:39:28:	Open login page
+
+STEP 2	2020.11.02 21:39:29:	Login
+
+STEP 3	2020.11.02 21:39:30:	Open profile page
+
+STEP 4	2020.11.02 21:39:33:	Set API request to add a post
+INFO	2020.11.02 21:39:34  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:39:34  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:39:34  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 21:39:36:	Edit post text and add image attachment
+INFO	2020.11.02 21:39:36  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:39:36  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:39:36  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:39:36  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.02 21:39:36  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.02 21:39:36  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:39:36  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:39:36  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.02 21:39:38  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.02 21:39:38  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.02 21:39:38  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.02 21:39:38  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:39:38  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 21:41:38:	Open login page
+
+STEP 2	2020.11.02 21:41:40:	Login
+
+STEP 3	2020.11.02 21:41:40:	Open profile page
+
+STEP 4	2020.11.02 21:41:46:	Set API request to add a post
+INFO	2020.11.02 21:41:47  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:41:47  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:41:47  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 21:41:49:	Edit post text and add image attachment
+INFO	2020.11.02 21:41:49  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 21:41:49  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:41:49  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:41:49  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.02 21:41:49  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.02 21:41:49  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:41:49  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 21:41:49  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.02 21:41:50  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.02 21:41:50  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.02 21:41:50  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.02 21:41:50  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 21:41:50  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 22:14:04:	Open login page
+
+STEP 2	2020.11.02 22:14:06:	Login
+
+STEP 3	2020.11.02 22:14:07:	Open profile page
+
+STEP 4	2020.11.02 22:14:11:	Set API request to add a post
+INFO	2020.11.02 22:14:12  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 22:14:12  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:14:12  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 22:14:14:	Edit post text and add image attachment
+INFO	2020.11.02 22:14:14  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 22:14:14  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:14:14  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 22:14:14  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.02 22:14:14  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.02 22:14:14  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:14:14  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 22:14:15  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.02 22:14:15  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.02 22:14:15  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.02 22:14:15  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.02 22:14:15  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:14:15  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 22:15:51:	Open login page
+
+STEP 2	2020.11.02 22:15:53:	Login
+
+STEP 3	2020.11.02 22:15:53:	Open profile page
+
+STEP 4	2020.11.02 22:15:57:	Set API request to add a post
+INFO	2020.11.02 22:15:58  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 22:15:58  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:15:58  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 22:16:00:	Edit post text and add image attachment
+INFO	2020.11.02 22:16:00  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:16:00  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.02 22:17:22:	Open login page
+
+STEP 2	2020.11.02 22:17:24:	Login
+
+STEP 3	2020.11.02 22:17:24:	Open profile page
+
+STEP 4	2020.11.02 22:17:29:	Set API request to add a post
+INFO	2020.11.02 22:17:29  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 22:17:29  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:17:29  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 5	2020.11.02 22:17:33:	Edit post text and add image attachment
+INFO	2020.11.02 22:17:33  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.02 22:17:33  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:17:33  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 22:17:33  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.02 22:17:33  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.02 22:17:33  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:17:33  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.02 22:17:33  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.02 22:17:34  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.02 22:17:34  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.02 22:17:34  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.02 22:17:34  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.02 22:17:34  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.03 15:57:56:	Open login page
+
+STEP 2	2020.11.03 15:57:58:	Login
+
+STEP 3	2020.11.03 15:57:58:	Open profile page
+
+STEP 4	2020.11.03 15:58:01:	Set API request to add a post
+INFO	2020.11.03 15:58:02  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 15:58:02  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 15:58:02  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.03 15:58:02  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.03 15:58:02  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.03 15:58:02  vkApiTests.vkApi.models.VkApiPost:	Формирование POST-запроса
+INFO	2020.11.03 15:58:02  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 15:58:02  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 15:58:02  vkApiTests.vkApi.models.VkApiPost:	Отправка POST-запроса
+INFO	2020.11.03 15:58:04  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+
+STEP 5	2020.11.03 15:58:05:	Edit post text and add image attachment
+INFO	2020.11.03 15:58:05  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPost:	Формирование POST-запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPost:	Отправка POST-запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Формирование POST-запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Отправка POST-запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Установка адреса сервера
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Отправка POST-запроса на сервер для загрузки фото
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Установка параметров: photo, server, hash
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Формирование запроса для POST-запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 15:58:05  vkApiTests.vkApi.models.VkApiPhoto:	Отправка POST-запроса
+
+STEP 1	2020.11.03 15:59:28:	Open login page
+
+STEP 2	2020.11.03 15:59:31:	Login
+
+STEP 3	2020.11.03 15:59:31:	Open profile page
+
+STEP 4	2020.11.03 15:59:35:	Set API request to add a post
+INFO	2020.11.03 15:59:36  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 15:59:36  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 15:59:36  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.03 15:59:36  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.03 15:59:36  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.03 15:59:36  vkApiTests.vkApi.models.VkApiPost:	Формирование POST-запроса
+INFO	2020.11.03 15:59:36  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 15:59:36  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 15:59:36  vkApiTests.vkApi.models.VkApiPost:	Отправка POST-запроса
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+
+STEP 5	2020.11.03 15:59:38:	Edit post text and add image attachment
+INFO	2020.11.03 15:59:38  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiPost:	Формирование POST-запроса
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiPost:	Отправка POST-запроса
+
+STEP 6	2020.11.03 15:59:38:	Add comment to a post
+INFO	2020.11.03 15:59:38  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiComment:	Инициализация комментария
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiComment:	Установка сообщения
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiComment:	Установка id владельца
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiComment:	Установка id поста
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiComment:	Формирование запроса на добалвние комментария
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiComment:	Получение текста комментария
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiComment:	Отправка запроса на добавление комментария
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiComment:	Установка id кооментария
+INFO	2020.11.03 15:59:38  vkApiTests.vkApi.models.VkApiComment:	Получение id комментария
+
+STEP 7	2020.11.03 15:59:39:	Like post
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiLike:	Установка типа объекта для лайка
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiLike:	Установка id владельца
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiLike:	Установка id элемента
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiLike:	Установка id пользователя
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiLike:	Формирование запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiLike:	Отправка запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiLike:	Проверка кода наличия лайка
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 15:59:39  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.03 16:28:15:	Open login page
+
+STEP 2	2020.11.03 16:28:18:	Login
+
+STEP 3	2020.11.03 16:28:18:	Open profile page
+
+STEP 4	2020.11.03 16:28:23:	Set API request to add a post
+INFO	2020.11.03 16:28:24  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 16:28:24  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 16:28:24  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.03 16:28:24  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.03 16:28:24  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.03 16:28:24  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 16:28:24  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 16:28:24  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 16:28:24  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+
+STEP 5	2020.11.03 16:28:27:	Edit post text and add image attachment
+INFO	2020.11.03 16:28:27  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+
+STEP 6	2020.11.03 16:28:27:	Add comment to a post
+INFO	2020.11.03 16:28:27  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiComment:	Инициализация комментария
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiComment:	Установка сообщения
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiComment:	Установка id владельца
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiComment:	Установка id поста
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.VkApiUtils:	Формирование запроса на добалвние комментария
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiComment:	Получение текста комментария
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.VkApiUtils:	Отправка запроса на добавление комментария
+INFO	2020.11.03 16:28:27  vkApiTests.vkApi.models.VkApiComment:	Установка id кооментария
+
+STEP 1	2020.11.03 16:30:24:	Open login page
+
+STEP 2	2020.11.03 16:30:27:	Login
+
+STEP 3	2020.11.03 16:30:28:	Open profile page
+
+STEP 4	2020.11.03 16:30:32:	Set API request to add a post
+INFO	2020.11.03 16:30:33  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 16:30:33  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 16:30:33  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.03 16:30:33  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.03 16:30:33  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.03 16:30:33  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 16:30:33  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 16:30:33  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 16:30:33  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+
+STEP 5	2020.11.03 16:30:35:	Edit post text and add image attachment
+INFO	2020.11.03 16:30:35  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+
+STEP 6	2020.11.03 16:30:35:	Add comment to a post
+INFO	2020.11.03 16:30:35  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiComment:	Инициализация комментария
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiComment:	Установка сообщения
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiComment:	Установка id владельца
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiComment:	Установка id поста
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.VkApiUtils:	Формирование запроса на добалвние комментария
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiComment:	Получение текста комментария
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.VkApiUtils:	Отправка запроса на добавление комментария
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiComment:	Установка id кооментария
+INFO	2020.11.03 16:30:35  vkApiTests.vkApi.models.VkApiComment:	Получение id комментария
+
+STEP 7	2020.11.03 16:30:36:	Like post
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiLike:	Установка типа объекта для лайка
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiLike:	Установка id владельца
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiLike:	Установка id элемента
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiLike:	Установка id пользователя
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.VkApiUtils:	Формирование запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.VkApiUtils:	Отправка запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.VkApiUtils:	Проверка кода наличия лайка
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 16:30:36  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.03 17:26:42:	Open login page
+
+STEP 2	2020.11.03 17:26:47:	Login
+INFO	2020.11.03 17:26:47  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода почты
+INFO	2020.11.03 17:26:47  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:26:47  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода пароля
+INFO	2020.11.03 17:26:47  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:26:47  vkApiTests.pageObjects.LoginPage:	Инициализация кнопки входа
+INFO	2020.11.03 17:26:47  vkApiTests.pageObjects.LoginPage:	Нажатие на кнопку
+
+STEP 3	2020.11.03 17:26:47:	Open profile page
+INFO	2020.11.03 17:26:54  vkApiTests.pageObjects.FeedPage:	Инициализация кнопки меню для перехода в профиль
+INFO	2020.11.03 17:26:54  vkApiTests.pageObjects.FeedPage:	Нажатие на кнопку
+
+STEP 4	2020.11.03 17:26:54:	Set API request to add a post
+INFO	2020.11.03 17:26:55  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:26:55  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 17:26:55  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.03 17:26:55  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.03 17:26:55  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.03 17:26:55  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:26:55  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:26:55  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:26:55  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.03 17:26:58  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 17:26:58  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей текст поста
+INFO	2020.11.03 17:26:58  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:26:58  vkApiTests.pageObjects.ProfilePage:	Получение значения label
+INFO	2020.11.03 17:26:58  vkApiTests.pageObjects.ProfilePage:	Проверка корректности текста поста
+
+STEP 5	2020.11.03 17:26:58:	Edit post text and add image attachment
+INFO	2020.11.03 17:26:58  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:26:58  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:26:58  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:26:58  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:26:58  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiPhoto:	Формирование POST-запроса
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiPhoto:	Отправка POST-запроса
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiPhoto:	Установка адреса сервера
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса на сервер для загрузки фото
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.VkApiUtils:	Установка параметров: photo, server, hash
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.VkApiUtils:	Формирование запроса для POST-запроса
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:26:59  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+
+STEP 1	2020.11.03 17:28:01:	Open login page
+
+STEP 2	2020.11.03 17:28:04:	Login
+INFO	2020.11.03 17:28:04  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода почты
+INFO	2020.11.03 17:28:04  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:28:04  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода пароля
+INFO	2020.11.03 17:28:04  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:28:04  vkApiTests.pageObjects.LoginPage:	Инициализация кнопки входа
+INFO	2020.11.03 17:28:04  vkApiTests.pageObjects.LoginPage:	Нажатие на кнопку
+
+STEP 3	2020.11.03 17:28:04:	Open profile page
+INFO	2020.11.03 17:28:09  vkApiTests.pageObjects.FeedPage:	Инициализация кнопки меню для перехода в профиль
+INFO	2020.11.03 17:28:09  vkApiTests.pageObjects.FeedPage:	Нажатие на кнопку
+
+STEP 4	2020.11.03 17:28:09:	Set API request to add a post
+INFO	2020.11.03 17:28:10  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:28:10  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 17:28:10  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.03 17:28:10  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.03 17:28:10  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.03 17:28:10  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:28:10  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:28:10  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:28:10  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 17:28:14  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей текст поста
+INFO	2020.11.03 17:28:14  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:28:14  vkApiTests.pageObjects.ProfilePage:	Получение значения label
+INFO	2020.11.03 17:28:14  vkApiTests.pageObjects.ProfilePage:	Проверка корректности текста поста
+
+STEP 5	2020.11.03 17:28:14:	Edit post text and add image attachment
+INFO	2020.11.03 17:28:14  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+
+STEP 6	2020.11.03 17:28:14:	Add comment to a post
+INFO	2020.11.03 17:28:14  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiComment:	Инициализация комментария
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiComment:	Установка сообщения
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiComment:	Установка id владельца
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiComment:	Установка id поста
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.VkApiUtils:	Формирование запроса на добалвние комментария
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiComment:	Получение текста комментария
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.VkApiUtils:	Отправка запроса на добавление комментария
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiComment:	Установка id кооментария
+INFO	2020.11.03 17:28:14  vkApiTests.vkApi.models.VkApiComment:	Получение id комментария
+INFO	2020.11.03 17:28:14  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей автора поста
+INFO	2020.11.03 17:28:14  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:28:15  vkApiTests.pageObjects.ProfilePage:	Проверка соответствия автора поста
+
+STEP 7	2020.11.03 17:28:15:	Like post
+INFO	2020.11.03 17:28:15  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiLike:	Установка типа объекта для лайка
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiLike:	Установка id владельца
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiLike:	Установка id элемента
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiLike:	Установка id пользователя
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.VkApiUtils:	Формирование запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.VkApiUtils:	Отправка запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.VkApiUtils:	Проверка кода наличия лайка
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:28:15  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.03 17:42:03:	Open login page
+
+STEP 2	2020.11.03 17:42:04:	Login
+INFO	2020.11.03 17:42:04  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода почты
+INFO	2020.11.03 17:42:05  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:42:05  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода пароля
+INFO	2020.11.03 17:42:05  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:42:05  vkApiTests.pageObjects.LoginPage:	Инициализация кнопки входа
+INFO	2020.11.03 17:42:05  vkApiTests.pageObjects.LoginPage:	Нажатие на кнопку
+
+STEP 3	2020.11.03 17:42:05:	Open profile page
+INFO	2020.11.03 17:42:07  vkApiTests.pageObjects.FeedPage:	Инициализация кнопки меню для перехода в профиль
+INFO	2020.11.03 17:42:07  vkApiTests.pageObjects.FeedPage:	Нажатие на кнопку
+
+STEP 4	2020.11.03 17:42:08:	Set API request to add a post
+INFO	2020.11.03 17:42:08  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:42:08  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 17:42:08  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.03 17:42:08  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.03 17:42:08  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.03 17:42:08  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:42:08  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:42:08  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:42:08  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 17:42:11  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей текст поста
+INFO	2020.11.03 17:42:11  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:42:11  vkApiTests.pageObjects.ProfilePage:	Получение значения label
+INFO	2020.11.03 17:42:11  vkApiTests.pageObjects.ProfilePage:	Проверка корректности текста поста
+
+STEP 5	2020.11.03 17:42:11:	Edit post text and add image attachment
+INFO	2020.11.03 17:42:11  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPhoto:	Инициализация фото, установка пути к фото
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPhoto:	Установка id владельца
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPhoto:	Формирование POST-запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPhoto:	Отправка POST-запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPhoto:	Установка адреса сервера
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPhoto:	Установка id пользователя
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса на сервер для загрузки фото
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.VkApiUtils:	Установка параметров: photo, server, hash
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPhoto:	Установка данных фото
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPhoto:	Установка сервера
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiPhoto:	Установка хеша
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.VkApiUtils:	Формирование запроса для POST-запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:42:11  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+
+STEP 1	2020.11.03 17:42:54:	Open login page
+
+STEP 2	2020.11.03 17:42:56:	Login
+INFO	2020.11.03 17:42:56  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода почты
+INFO	2020.11.03 17:42:56  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:42:56  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода пароля
+INFO	2020.11.03 17:42:56  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:42:56  vkApiTests.pageObjects.LoginPage:	Инициализация кнопки входа
+INFO	2020.11.03 17:42:56  vkApiTests.pageObjects.LoginPage:	Нажатие на кнопку
+
+STEP 3	2020.11.03 17:42:56:	Open profile page
+INFO	2020.11.03 17:42:59  vkApiTests.pageObjects.FeedPage:	Инициализация кнопки меню для перехода в профиль
+INFO	2020.11.03 17:42:59  vkApiTests.pageObjects.FeedPage:	Нажатие на кнопку
+
+STEP 4	2020.11.03 17:42:59:	Set API request to add a post
+INFO	2020.11.03 17:43:00  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:43:00  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 17:43:00  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.03 17:43:00  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.03 17:43:00  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.03 17:43:00  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:43:00  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:43:00  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:43:00  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 17:43:02  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей текст поста
+INFO	2020.11.03 17:43:02  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:43:02  vkApiTests.pageObjects.ProfilePage:	Получение значения label
+INFO	2020.11.03 17:43:02  vkApiTests.pageObjects.ProfilePage:	Проверка корректности текста поста
+
+STEP 5	2020.11.03 17:43:02:	Edit post text and add image attachment
+INFO	2020.11.03 17:43:02  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+
+STEP 6	2020.11.03 17:43:02:	Add comment to a post
+INFO	2020.11.03 17:43:02  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiComment:	Инициализация комментария
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiComment:	Установка сообщения
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiComment:	Установка id владельца
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiComment:	Установка id поста
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.VkApiUtils:	Формирование запроса на добалвние комментария
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiComment:	Получение текста комментария
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.VkApiUtils:	Отправка запроса на добавление комментария
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiComment:	Установка id кооментария
+INFO	2020.11.03 17:43:02  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей автора поста
+INFO	2020.11.03 17:43:02  vkApiTests.pageObjects.ProfilePage:	Инициализация id пользователя и поста, id комментария
+INFO	2020.11.03 17:43:02  vkApiTests.vkApi.models.VkApiComment:	Получение id комментария
+INFO	2020.11.03 17:43:02  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:43:03  vkApiTests.pageObjects.ProfilePage:	Проверка соответствия автора поста
+
+STEP 7	2020.11.03 17:43:03:	Like post
+INFO	2020.11.03 17:43:03  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiLike:	Установка типа объекта для лайка
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiLike:	Установка id владельца
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiLike:	Установка id элемента
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiLike:	Установка id пользователя
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.VkApiUtils:	Формирование запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.VkApiUtils:	Отправка запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.VkApiUtils:	Проверка кода наличия лайка
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:43:03  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.03 17:44:01:	Open login page
+
+STEP 2	2020.11.03 17:44:03:	Login
+INFO	2020.11.03 17:44:03  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода почты
+INFO	2020.11.03 17:44:03  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:44:03  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода пароля
+INFO	2020.11.03 17:44:03  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.03 17:44:03  vkApiTests.pageObjects.LoginPage:	Инициализация кнопки входа
+INFO	2020.11.03 17:44:03  vkApiTests.pageObjects.LoginPage:	Нажатие на кнопку
+
+STEP 3	2020.11.03 17:44:03:	Open profile page
+INFO	2020.11.03 17:44:07  vkApiTests.pageObjects.FeedPage:	Инициализация кнопки меню для перехода в профиль
+INFO	2020.11.03 17:44:07  vkApiTests.pageObjects.FeedPage:	Нажатие на кнопку
+
+STEP 4	2020.11.03 17:44:07:	Set API request to add a post
+INFO	2020.11.03 17:44:07  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:44:07  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 17:44:07  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.03 17:44:07  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.03 17:44:07  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.03 17:44:07  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:44:07  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:44:07  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:44:07  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 17:44:10  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей текст поста
+INFO	2020.11.03 17:44:10  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:44:10  vkApiTests.pageObjects.ProfilePage:	Получение значения label
+INFO	2020.11.03 17:44:10  vkApiTests.pageObjects.ProfilePage:	Проверка корректности текста поста
+
+STEP 5	2020.11.03 17:44:10:	Edit post text and add image attachment
+INFO	2020.11.03 17:44:10  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+
+STEP 6	2020.11.03 17:44:10:	Add comment to a post
+INFO	2020.11.03 17:44:10  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiComment:	Инициализация комментария
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiComment:	Установка сообщения
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiComment:	Установка id владельца
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiComment:	Установка id поста
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.VkApiUtils:	Формирование запроса на добалвние комментария
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiComment:	Получение текста комментария
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.VkApiUtils:	Отправка запроса на добавление комментария
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiComment:	Установка id кооментария
+INFO	2020.11.03 17:44:10  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей автора поста
+INFO	2020.11.03 17:44:10  vkApiTests.pageObjects.ProfilePage:	Инициализация id пользователя и поста, id комментария
+INFO	2020.11.03 17:44:10  vkApiTests.vkApi.models.VkApiComment:	Получение id комментария
+INFO	2020.11.03 17:44:10  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:44:10  vkApiTests.pageObjects.ProfilePage:	Проверка соответствия автора поста
+
+STEP 7	2020.11.03 17:44:10:	Like post
+INFO	2020.11.03 17:44:10  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiLike:	Установка типа объекта для лайка
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiLike:	Установка id владельца
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiLike:	Установка id элемента
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiLike:	Установка id пользователя
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.VkApiUtils:	Формирование запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.VkApiUtils:	Отправка запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.VkApiUtils:	Проверка кода наличия лайка
+
+STEP 8	2020.11.03 17:44:11:	Delete post
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.03 17:44:11  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+
+STEP 1	2020.11.04 00:01:00:	Open login page
+
+STEP 2	2020.11.04 00:01:03:	Login
+INFO	2020.11.04 00:01:03  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода почты
+INFO	2020.11.04 00:01:03  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.04 00:01:03  vkApiTests.pageObjects.LoginPage:	Инициализация поля ввода пароля
+INFO	2020.11.04 00:01:03  vkApiTests.pageObjects.LoginPage:	Отправление данных в поле
+INFO	2020.11.04 00:01:03  vkApiTests.pageObjects.LoginPage:	Инициализация кнопки входа
+INFO	2020.11.04 00:01:04  vkApiTests.pageObjects.LoginPage:	Нажатие на кнопку
+
+STEP 3	2020.11.04 00:01:04:	Open profile page
+INFO	2020.11.04 00:01:07  vkApiTests.pageObjects.FeedPage:	Инициализация кнопки меню для перехода в профиль
+INFO	2020.11.04 00:01:07  vkApiTests.pageObjects.FeedPage:	Нажатие на кнопку
+
+STEP 4	2020.11.04 00:01:07:	Set API request to add a post
+INFO	2020.11.04 00:01:08  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.04 00:01:08  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.04 00:01:08  vkApiTests.vkApi.models.VkApiPost:	Установка сообщения
+INFO	2020.11.04 00:01:08  vkApiTests.vkApi.models.VkApiPost:	Установка статуса комментариев
+INFO	2020.11.04 00:01:08  vkApiTests.vkApi.models.VkApiPost:	Установка id пользователя
+INFO	2020.11.04 00:01:08  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.04 00:01:08  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.04 00:01:08  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.04 00:01:08  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.04 00:01:11  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей текст поста
+INFO	2020.11.04 00:01:11  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.04 00:01:11  vkApiTests.pageObjects.ProfilePage:	Получение значения label
+INFO	2020.11.04 00:01:11  vkApiTests.pageObjects.ProfilePage:	Проверка корректности текста поста
+
+STEP 5	2020.11.04 00:01:11:	Edit post text and add image attachment
+INFO	2020.11.04 00:01:11  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.VkApiUtils:	Формирование POST-запроса
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.VkApiUtils:	Отправка POST-запроса
+
+STEP 6	2020.11.04 00:01:11:	Add comment to a post
+INFO	2020.11.04 00:01:11  stringsUtils.RandomString:	Generate random text
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiComment:	Инициализация комментария
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiComment:	Установка сообщения
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiComment:	Установка id владельца
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiComment:	Установка id поста
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.VkApiUtils:	Формирование запроса на добалвние комментария
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiComment:	Получение текста комментария
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.VkApiUtils:	Отправка запроса на добавление комментария
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiComment:	Установка id кооментария
+INFO	2020.11.04 00:01:11  vkApiTests.pageObjects.ProfilePage:	Инициализация переменной, содержащей автора поста
+INFO	2020.11.04 00:01:11  vkApiTests.pageObjects.ProfilePage:	Инициализация id пользователя и поста, id комментария
+INFO	2020.11.04 00:01:11  vkApiTests.vkApi.models.VkApiComment:	Получение id комментария
+INFO	2020.11.04 00:01:11  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.04 00:01:12  vkApiTests.pageObjects.ProfilePage:	Проверка соответствия автора поста
+
+STEP 7	2020.11.04 00:01:12:	Like post
+INFO	2020.11.04 00:01:12  vkApiTests.pageObjects.ProfilePage:	Инициализация label — текст поста
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiLike:	Установка типа объекта для лайка
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiLike:	Установка id владельца
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiLike:	Установка id элемента
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiLike:	Установка id пользователя
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.VkApiUtils:	Формирование запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.VkApiUtils:	Отправка запроса для POST-запроса для проверки наличия лайка
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.VkApiUtils:	Проверка кода наличия лайка
+
+STEP 8	2020.11.04 00:01:12:	Delete post
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiPost:	Установка id владельца
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiPost:	Установка id поста
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiBaseModel:	Создание строки с данными объекта для запроса
+INFO	2020.11.04 00:01:12  vkApiTests.vkApi.models.VkApiBaseModel:	Возврат строки с данными объекта для запроса

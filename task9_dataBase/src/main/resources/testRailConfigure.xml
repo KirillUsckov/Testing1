@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<settings>
+
+    <testRail>https://tr.a1qa.com/</testRail>
+    <screenshotPath>src/test/resources/screenshot.png</screenshotPath>
+    <projectId>140</projectId>
+    <suiteName>task4_modalWindow</suiteName>
+    <suiteDescription>Tests for modal windows</suiteDescription>
+    <runName>JS Modal Window run</runName>
+    <sectionName>Modal windows test</sectionName>
+    <resultComment>Result of testing js modal windows</resultComment>
+
+</settings>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<strings>
+    <siteUrl>https://store.steampowered.com/</siteUrl>
+
+    <!-- browser задает браузер для тестирования, по умолчанию - Chrome, можно поставить FireFox -->
+    <browser>FireFox</browser>
+
+    <!-- localisation задает локализацию для браузера, по умолчанию - English, можно поставить Russian -->
+    <localisation>Russian</localisation>
+
+    <downloadDirectoryPath>D:/Загрузки/SteamSetup.exe</downloadDirectoryPath>
+
+    <waitingTime>2000</waitingTime>
+</strings>

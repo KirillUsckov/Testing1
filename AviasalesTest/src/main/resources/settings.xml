@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<settings>
+
+    <siteUrl>https://www.aviasales.ru/</siteUrl>
+
+    <!-- Локализация сайта. По умолчанию: ru, может выставляться by -->
+    <localisation>ru</localisation>
+    <!-- browser задает браузер для тестирования, по умолчанию - Chrome, можно поставить FireFox -->
+    <browser>Chrome</browser>
+
+    <waitingTime>2000</waitingTime>
+
+</settings>

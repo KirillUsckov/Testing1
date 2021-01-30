@@ -1,0 +1,1 @@
+select * from attachment where content_type='image/png' and test_id=testId;

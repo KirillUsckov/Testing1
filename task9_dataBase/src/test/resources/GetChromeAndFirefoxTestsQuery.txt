@@ -1,0 +1,7 @@
+(SELECT COUNT(*) AS count
+FROM test
+WHERE browser = 'fBrowser')
+UNION
+(SELECT COUNT(*) AS count
+FROM test
+WHERE browser = 'sBrowser');

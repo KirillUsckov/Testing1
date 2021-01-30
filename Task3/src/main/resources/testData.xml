@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<strings>
+    <agecheckText>agecheck</agecheckText>
+    <maxSorting>max</maxSorting>
+    <minSorting>min</minSorting>
+
+    <ruAction>Экшен</ruAction>
+    <enAction>Action</enAction>
+
+    <ruIndie>Инди</ruIndie>
+    <enIndie>Indie</enIndie>
+</strings>

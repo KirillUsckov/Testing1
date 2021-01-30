@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<settings>
+
+    <siteUrl>https://userinyerface.com/game.html%20target=</siteUrl>
+    <imgLocation>\src\main\resources\Rick_Sanchez.png</imgLocation>
+    <!-- browser задает браузер для тестирования, по умолчанию - Chrome, можно поставить FireFox
+    <browser>FireFox</browser>-->
+
+</settings>

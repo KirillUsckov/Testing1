@@ -1,0 +1,216 @@
+INFO	2020.09.09 22:26:32  pageObjects.MainP
+STEP 2	2020.09.09 22:26:32:	Click OK in JSAlert
+
+STEP 3	2020.09.09 22:26:32:	Click JSConfirm
+
+STEP 4	2020.09.09 22:26:32:	Click OK in JSConfirm
+
+STEP 5	2020.09.09 22:26:32:	Click JSPrompt
+
+STEP 6	2020.09.09 22:26:32:	Enter random text in JSPrompt
+u successfuly clicked an alert"
+INFO	2020.09.09 22:26:32  modalWindows.pageObjects.MainPage:	Initialisation of jsConfirm button
+INFO	2020.09.09 22:26:32  modalWindows.pageObjects.MainPage:	Click on jsConfirm button
+INFO	2020.09.09 22:26:32  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:26:32  modalWindows.pageObjects.MainPage:	Result: "You clicked: Ok"
+INFO	2020.09.09 22:26:32  modalWindows.pageObjects.MainPage:	Initialisation of jsPrompt button
+INFO	2020.09.09 22:26:32  modalWindows.pageObjects.MainPage:	Click on jsPrompt button
+INFO	2020.09.09 22:26:32  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:26:32  modalWindows.pageObjects.MainPage:	Result: "You entered: MuhEo uoOmuYmxItGzaT"
+
+STEP 1	2020.09.09 22:32:28:	Click JSAlert
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Initialisation of jsAlert button
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Click on jsAlert button
+
+STEP 2	2020.09.09 22:32:28:	Click OK in JSAlert
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Result: "You successfuly clicked an alert"
+
+STEP 3	2020.09.09 22:32:28:	Click JSConfirm
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Initialisation of jsConfirm button
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Click on jsConfirm button
+
+STEP 4	2020.09.09 22:32:28:	Click OK in JSConfirm
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Result: "You clicked: Ok"
+
+STEP 5	2020.09.09 22:32:28:	Click JSPrompt
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Initialisation of jsPrompt button
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Click on jsPrompt button
+
+STEP 6	2020.09.09 22:32:28:	Enter random text in JSPrompt
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:32:28  modalWindows.pageObjects.MainPage:	Result: "You entered: yhXwbSJnkNSLZZjfOSGk"
+
+STEP 1	2020.09.09 22:35:07:	Click JSAlert
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Initialisation of jsAlert button
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Click on jsAlert button
+
+STEP 2	2020.09.09 22:35:07:	Click OK in JSAlert
+INFO	2020.09.09 22:35:07  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Result: "You successfuly clicked an alert"
+
+STEP 3	2020.09.09 22:35:07:	Click JSConfirm
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Initialisation of jsConfirm button
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Click on jsConfirm button
+
+STEP 4	2020.09.09 22:35:07:	Click OK in JSConfirm
+INFO	2020.09.09 22:35:07  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Result: "You clicked: Ok"
+
+STEP 5	2020.09.09 22:35:07:	Click JSPrompt
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Initialisation of jsPrompt button
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Click on jsPrompt button
+
+STEP 6	2020.09.09 22:35:07:	Enter random text in JSPrompt
+INFO	2020.09.09 22:35:07  autoTestFramework.modalWindows.BaseModalWindow:	Set text to prompt
+INFO	2020.09.09 22:35:07  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:35:07  modalWindows.pageObjects.MainPage:	Result: "You entered: mqyrgrMMlYMPmgLEBIlo"
+
+STEP 1	2020.09.09 22:39:02:	Click JSAlert
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Initialisation of jsAlert button
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Click on jsAlert button
+
+STEP 2	2020.09.09 22:39:02:	Click OK in JSAlert
+INFO	2020.09.09 22:39:02  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Result: "You successfuly clicked an alert"
+
+STEP 3	2020.09.09 22:39:02:	Click JSConfirm
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Initialisation of jsConfirm button
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Click on jsConfirm button
+
+STEP 4	2020.09.09 22:39:02:	Click OK in JSConfirm
+INFO	2020.09.09 22:39:02  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Result: "You clicked: Ok"
+
+STEP 5	2020.09.09 22:39:02:	Click JSPrompt
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Initialisation of jsPrompt button
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Click on jsPrompt button
+
+STEP 6	2020.09.09 22:39:02:	Enter random text in JSPrompt
+INFO	2020.09.09 22:39:02  autoTestFramework.stringsUtils.RandomString:	Generate random text
+INFO	2020.09.09 22:39:02  autoTestFramework.modalWindows.BaseModalWindow:	Set text to prompt
+INFO	2020.09.09 22:39:02  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.09 22:39:02  modalWindows.pageObjects.MainPage:	Result: "You entered: sdUqDJawLcWFkrVFnWOk"
+
+STEP 1	2020.09.10 10:45:49:	Click JSAlert
+INFO	2020.09.10 10:45:49  modalWindows.pageObjects.MainPage:	Initialisation of jsAlert button
+INFO	2020.09.10 10:45:49  modalWindows.pageObjects.MainPage:	Click on jsAlert button
+
+STEP 2	2020.09.10 10:45:50:	Click OK in JSAlert
+INFO	2020.09.10 10:45:50  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Result: "You successfuly clicked an alert"
+
+STEP 3	2020.09.10 10:45:50:	Click JSConfirm
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Initialisation of jsConfirm button
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Click on jsConfirm button
+
+STEP 4	2020.09.10 10:45:50:	Click OK in JSConfirm
+INFO	2020.09.10 10:45:50  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Result: "You clicked: Ok"
+
+STEP 5	2020.09.10 10:45:50:	Click JSPrompt
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Initialisation of jsPrompt button
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Click on jsPrompt button
+
+STEP 6	2020.09.10 10:45:50:	Enter random text in JSPrompt
+INFO	2020.09.10 10:45:50  autoTestFramework.stringsUtils.RandomString:	Generate random text
+INFO	2020.09.10 10:45:50  autoTestFramework.modalWindows.BaseModalWindow:	Set text to prompt
+INFO	2020.09.10 10:45:50  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.10 10:45:50  modalWindows.pageObjects.MainPage:	Result: "You entered: THJfSTjtDODTdpGKzZpd"
+
+STEP 1	2020.09.10 18:31:42:	Click JSAlert
+INFO	2020.09.10 18:31:42  modalWindows.pageObjects.MainPage:	Initialisation of jsAlert button
+INFO	2020.09.10 18:31:42  modalWindows.pageObjects.MainPage:	Click on jsAlert jsAlert button
+
+STEP 2	2020.09.10 18:31:42:	Click OK in JSAlert
+INFO	2020.09.10 18:31:42  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.10 18:31:42  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.10 18:31:42  modalWindows.pageObjects.MainPage:	Result: "You successfuly clicked an alert"
+
+STEP 3	2020.09.10 18:31:42:	Click JSConfirm
+INFO	2020.09.10 18:31:42  modalWindows.pageObjects.MainPage:	Initialisation of jsConfirm button
+INFO	2020.09.10 18:31:42  modalWindows.pageObjects.MainPage:	Click on jsAlert jsConfirm button
+
+STEP 4	2020.09.10 18:31:43:	Click OK in JSConfirm
+INFO	2020.09.10 18:31:43  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.10 18:31:43  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.10 18:31:43  modalWindows.pageObjects.MainPage:	Result: "You clicked: Ok"
+
+STEP 5	2020.09.10 18:31:43:	Click JSPrompt
+INFO	2020.09.10 18:31:43  modalWindows.pageObjects.MainPage:	Initialisation of jsPrompt button
+INFO	2020.09.10 18:31:43  modalWindows.pageObjects.MainPage:	Click on jsAlert jsPrompt button
+
+STEP 6	2020.09.10 18:31:43:	Enter random text in JSPrompt
+INFO	2020.09.10 18:31:43  autoTestFramework.stringsUtils.RandomString:	Generate random text
+INFO	2020.09.10 18:31:43  autoTestFramework.modalWindows.BaseModalWindow:	Set text to prompt
+INFO	2020.09.10 18:31:43  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.10 18:31:43  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.10 18:31:43  modalWindows.pageObjects.MainPage:	Result: "You entered: AkUNUCgKWlqyuzPaIGvr"
+
+STEP 1	2020.09.10 18:44:33:	Click JSAlert
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Initialisation of jsAlert button
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Click on jsAlert jsAlert button
+
+STEP 2	2020.09.10 18:44:33:	Click OK in JSAlert
+INFO	2020.09.10 18:44:33  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Result: "You successfuly clicked an alert"
+
+STEP 3	2020.09.10 18:44:33:	Click JSConfirm
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Initialisation of jsConfirm button
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Click on jsAlert jsConfirm button
+
+STEP 4	2020.09.10 18:44:33:	Click OK in JSConfirm
+INFO	2020.09.10 18:44:33  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Result: "You clicked: Ok"
+
+STEP 5	2020.09.10 18:44:33:	Click JSPrompt
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Initialisation of jsPrompt button
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Click on jsAlert jsPrompt button
+
+STEP 6	2020.09.10 18:44:33:	Enter random text in JSPrompt
+INFO	2020.09.10 18:44:33  autoTestFramework.stringsUtils.RandomString:	Generate random text
+INFO	2020.09.10 18:44:33  autoTestFramework.modalWindows.BaseModalWindow:	Set text to prompt
+INFO	2020.09.10 18:44:33  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.10 18:44:33  modalWindows.pageObjects.MainPage:	Result: "You entered: TzbZgcVUxGRDJJnGnFGT"
+
+STEP 1	2020.09.13 21:48:37:	Click JSAlert
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Initialisation of jsAlert button
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Click on jsAlert jsAlert button
+
+STEP 2	2020.09.13 21:48:37:	Click OK in JSAlert
+INFO	2020.09.13 21:48:37  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Result: "You successfuly clicked an alert"
+
+STEP 3	2020.09.13 21:48:37:	Click JSConfirm
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Initialisation of jsConfirm button
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Click on jsAlert jsConfirm button
+
+STEP 4	2020.09.13 21:48:37:	Click OK in JSConfirm
+INFO	2020.09.13 21:48:37  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Result: "You clicked: Ok"
+
+STEP 5	2020.09.13 21:48:37:	Click JSPrompt
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Initialisation of jsPrompt button
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Click on jsAlert jsPrompt button
+
+STEP 6	2020.09.13 21:48:37:	Enter random text in JSPrompt
+INFO	2020.09.13 21:48:37  autoTestFramework.stringsUtils.RandomString:	Generate random text
+INFO	2020.09.13 21:48:37  autoTestFramework.modalWindows.BaseModalWindow:	Set text to prompt
+INFO	2020.09.13 21:48:37  autoTestFramework.modalWindows.BaseModalWindow:	Click accept
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Initialisation of result label
+INFO	2020.09.13 21:48:37  modalWindows.pageObjects.MainPage:	Result: "You entered: VdijSRAkdBNBBnwsvWLB"

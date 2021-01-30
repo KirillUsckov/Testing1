@@ -1,0 +1,1134 @@
+2020-08-04 13:35 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 13:35 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: ??????
+2020-08-04 13:35 INFO  PageObjects.AviasalesMainPage:27 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 13:35 INFO  PageObjects.AviasalesMainPage:29 - Set destination city: ?????-?????????
+2020-08-04 13:35 INFO  PageObjects.AviasalesMainPage:34 - Searching for DEPARTURE_DATE_TEXTBOX
+
+2020-08-04 13:37 INFO  PageObjects.AviasalesMainPage:34 - Searching for DEPARTURE_DATE_TEXTBOX
+
+2020-08-04 13:39 INFO  PageObjects.AviasalesMainPage:34 - Searching for DEPARTURE_DATE_TEXTBOX
+
+2020-08-04 13:40 INFO  PageObjects.AviasalesMainPage:34 - Searching for DEPARTURE_DATE_TEXTBOX
+
+2020-08-04 13:43 INFO  PageObjects.AviasalesMainPage:34 - Searching for DEPARTURE_DATE_TEXTBOX
+
+2020-08-04 13:45 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 13:45 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+
+2020-08-04 13:59 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 13:59 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+
+2020-08-04 14:07 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 14:07 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 14:08 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 14:08 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+
+2020-08-04 14:10 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 14:10 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 14:14 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 14:14 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+
+2020-08-04 14:17 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 14:17 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 14:17 INFO  PageObjects.AviasalesMainPage:27 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 14:17 INFO  PageObjects.AviasalesMainPage:29 - Set destination city: Санкт-Петербург
+2020-08-04 14:17 INFO  PageObjects.AviasalesMainPage:34 - Searching for DEPARTURE_DATE_TEXTBOX
+
+2020-08-04 14:23 INFO  PageObjects.AviasalesMainPage:20 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 14:23 INFO  PageObjects.AviasalesMainPage:22 - Set departure city: Москва
+2020-08-04 14:23 INFO  PageObjects.AviasalesMainPage:28 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 14:23 INFO  PageObjects.AviasalesMainPage:30 - Set destination city: Санкт-Петербург
+2020-08-04 14:23 INFO  PageObjects.AviasalesMainPage:35 - Searching for DEPARTURE_DATE_TEXTBOX
+
+2020-08-04 14:25 INFO  PageObjects.AviasalesMainPage:20 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 14:25 INFO  PageObjects.AviasalesMainPage:22 - Set departure city: Москва
+2020-08-04 14:25 INFO  PageObjects.AviasalesMainPage:28 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 14:25 INFO  PageObjects.AviasalesMainPage:30 - Set destination city: Санкт-Петербург
+2020-08-04 14:25 INFO  PageObjects.AviasalesMainPage:35 - Searching for DEPARTURE_DATE_TEXTBOX
+
+2020-08-04 14:54 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 14:54 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 14:54 INFO  PageObjects.AviasalesMainPage:27 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 14:54 INFO  PageObjects.AviasalesMainPage:29 - Set destination city: Санкт-Петербург
+2020-08-04 14:54 INFO  PageObjects.AviasalesMainPage:34 - Searching for DEPARTURE_DATE_TEXTBOX
+
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 15:20 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 15:22 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 15:24 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 15:26 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 15:27 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 15:29 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 15:29 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 15:29 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 15:29 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 15:29 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 15:29 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 15:29 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 15:30 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 15:30 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 15:30 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 15:30 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 15:30 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 15:30 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 15:38 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:00 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:06 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:08 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:10 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:14 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:19 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:21 - Set departure city: Москва
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:30 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:32 - Set destination city: Санкт-Петербург
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:40 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:44 - Set departure date
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:50 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:54 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:56 - Click on button
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:61 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:63 - Click on checkbox
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:68 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:15 INFO  PageObjects.AviasalesMainPage:70 - Click on button
+
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:18 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:50 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:52 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:55 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 16:59 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 17:20 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 17:21 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 17:23 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 17:27 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 17:28 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 17:29 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Москва
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Санкт-Петербург
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:13 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:25 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:26 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:27 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:28 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:29 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:31 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:41 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:42 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:46 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:52 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 18:53 WARN  projectUtils.MinAndMaxElementSearcher:34 - java.lang.NumberFormatException: For input string: "11 136 "
+2020-08-04 18:53 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:53 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 18:53 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:53 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 18:53 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:53 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 18:55 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 18:56 WARN  projectUtils.MinAndMaxElementSearcher:34 - java.lang.NumberFormatException: For input string: "10 551 "
+
+2020-08-04 18:59 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 18:59 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:00 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:00 WARN  projectUtils.MinAndMaxElementSearcher:34 - java.lang.NumberFormatException: For input string: "10 695 "
+
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:05 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:06 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:07 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:08 WARN  projectUtils.MinAndMaxElementSearcher:35 - java.lang.NumberFormatException: For input string: "10 514 "
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:08 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 19:09 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:09 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:09 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:09 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:09 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:09 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:10 WARN  projectUtils.MinAndMaxElementSearcher:35 - java.lang.NumberFormatException: For input string: "10 078 "
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:10 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:12 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:15 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:15 WARN  projectUtils.MinAndMaxElementSearcher:35 - java.lang.NumberFormatException: For input string: "10 078 "
+
+2020-08-04 19:18 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:18 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:18 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:18 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:18 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:18 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:18 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:18 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:18 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:19 WARN  projectUtils.MinAndMaxElementSearcher:35 - java.lang.NumberFormatException: For input string: "10 695 "
+2020-08-04 19:19 INFO  PageObjects.AviasalesSearchingPage:27 - Min price: 0
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:19 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:20 WARN  projectUtils.MinAndMaxElementSearcher:35 - java.lang.NumberFormatException: For input string: "12 866 "
+2020-08-04 19:20 INFO  PageObjects.AviasalesSearchingPage:27 - Min price: 0
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:20 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:28 INFO  PageObjects.AviasalesSearchingPage:27 - Min price: 14780
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:28 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:32 INFO  PageObjects.AviasalesSearchingPage:27 - Min price: 13194
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-04 19:32 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-04 19:33 INFO  PageObjects.AviasalesSearchingPage:27 - Min price: 14155
+
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:03 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-05 12:04 INFO  PageObjects.AviasalesSearchingPage:27 - Min price: 11268
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:04 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-05 12:04 INFO  PageObjects.AviasalesSearchingPage:27 - Min price: 11421
+
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Минск
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Стамбул
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:53 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:55 - Click on checkbox
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:18 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:20 - Set departure city: Стамбул
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:25 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:27 - Set destination city: Минск
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:32 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:36 - Set departure date
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:42 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:46 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:48 - Click on button
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:60 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:21 INFO  PageObjects.AviasalesMainPage:62 - Click on button
+2020-08-05 12:22 INFO  PageObjects.AviasalesSearchingPage:27 - Min price: 10482
+
+2020-08-05 12:32 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:32 INFO  AviasalesMainPage:26 - Set departure city: ÐœÐ¸Ð½Ñ�Ðº
+2020-08-05 12:32 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:32 INFO  AviasalesMainPage:33 - Set destination city: Ð¡Ñ‚Ð°Ð¼Ð±ÑƒÐ»
+2020-08-05 12:32 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:32 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:32 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:32 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:32 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:32 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:32 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:32 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:32 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:33 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:33 INFO  AviasalesMainPage:26 - Set departure city: ÐœÐ¸Ð½Ñ�Ðº
+2020-08-05 12:33 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:33 INFO  AviasalesMainPage:33 - Set destination city: Ð¡Ñ‚Ð°Ð¼Ð±ÑƒÐ»
+2020-08-05 12:33 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:33 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:33 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:34 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:34 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:34 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:34 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:34 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:34 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:34 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:34 INFO  AviasalesMainPage:26 - Set departure city: ÐœÐ¸Ð½Ñ�Ðº
+2020-08-05 12:34 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:34 INFO  AviasalesMainPage:33 - Set destination city: Ð¡Ñ‚Ð°Ð¼Ð±ÑƒÐ»
+2020-08-05 12:34 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:34 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:34 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:34 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:34 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:34 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:34 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:34 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:34 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:35 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:35 INFO  AviasalesMainPage:26 - Set departure city: ÐœÐ¸Ð½Ñ�Ðº
+2020-08-05 12:35 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:35 INFO  AviasalesMainPage:33 - Set destination city: Ð¡Ñ‚Ð°Ð¼Ð±ÑƒÐ»
+2020-08-05 12:35 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:35 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:35 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:35 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:35 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:35 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:35 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:35 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:35 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:36 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:36 INFO  AviasalesMainPage:26 - Set departure city: Ð¡Ñ‚Ð°Ð¼Ð±ÑƒÐ»
+2020-08-05 12:36 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:36 INFO  AviasalesMainPage:33 - Set destination city: ÐœÐ¸Ð½Ñ�Ðº
+2020-08-05 12:36 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:36 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:37 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:37 INFO  AviasalesMainPage:26 - Set departure city: Мин�?к
+2020-08-05 12:37 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:37 INFO  AviasalesMainPage:33 - Set destination city: Стамбул
+2020-08-05 12:37 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:37 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:37 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:37 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:37 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:37 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:37 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:37 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:37 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:38 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:38 INFO  AviasalesMainPage:26 - Set departure city: Минск
+2020-08-05 12:38 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:38 INFO  AviasalesMainPage:33 - Set destination city: Стамбул
+2020-08-05 12:38 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:38 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:38 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:38 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:38 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:38 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:38 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:38 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:38 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:39 INFO  AviasalesSearchingPage:31 - Min price: 11426
+2020-08-05 12:39 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:39 INFO  AviasalesMainPage:26 - Set departure city: Стамбул
+2020-08-05 12:39 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:39 INFO  AviasalesMainPage:33 - Set destination city: Минск
+2020-08-05 12:39 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:39 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:39 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:39 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:39 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:39 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:39 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:44 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:44 INFO  AviasalesMainPage:26 - Set departure city: ?????
+2020-08-05 12:44 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:44 INFO  AviasalesMainPage:33 - Set destination city: ???????
+2020-08-05 12:44 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:44 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:44 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:44 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:44 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:44 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:44 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:44 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:44 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:44 INFO  AviasalesSearchingPage:31 - Min price: 10438
+2020-08-05 12:44 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:44 INFO  AviasalesMainPage:26 - Set departure city: ???????
+2020-08-05 12:44 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:44 INFO  AviasalesMainPage:33 - Set destination city: ?????
+2020-08-05 12:44 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:44 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:44 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:44 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:44 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:44 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:44 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:45 INFO  AviasalesSearchingPage:31 - Min price: 12605
+
+2020-08-05 12:47 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:47 INFO  AviasalesMainPage:26 - Set departure city: Минск
+2020-08-05 12:47 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:47 INFO  AviasalesMainPage:33 - Set destination city: Стамбул
+2020-08-05 12:47 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:47 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:47 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:47 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:47 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:47 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:47 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:47 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:47 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:47 INFO  AviasalesSearchingPage:31 - Min price: 10577
+2020-08-05 12:47 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:47 INFO  AviasalesMainPage:26 - Set departure city: Стамбул
+2020-08-05 12:47 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:47 INFO  AviasalesMainPage:33 - Set destination city: Минск
+2020-08-05 12:47 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:47 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:47 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:47 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:47 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:47 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:47 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:48 INFO  AviasalesSearchingPage:31 - Min price: 9887
+
+2020-08-05 12:49 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:49 INFO  AviasalesMainPage:26 - Set departure city: �����
+2020-08-05 12:49 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:49 INFO  AviasalesMainPage:33 - Set destination city: �������
+2020-08-05 12:49 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:49 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:49 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:49 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:49 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:49 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:49 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:49 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:49 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:49 INFO  AviasalesSearchingPage:31 - Min price: 10462
+2020-08-05 12:49 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:49 INFO  AviasalesMainPage:26 - Set departure city: �������
+2020-08-05 12:49 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:49 INFO  AviasalesMainPage:33 - Set destination city: �����
+2020-08-05 12:49 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:49 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:49 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:49 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:49 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:49 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:49 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:49 INFO  AviasalesSearchingPage:31 - Min price: 13136
+
+2020-08-05 12:51 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:51 INFO  AviasalesMainPage:26 - Set departure city: �����
+2020-08-05 12:51 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:51 INFO  AviasalesMainPage:33 - Set destination city: �������
+2020-08-05 12:51 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:51 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:51 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:51 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:51 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:51 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:51 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:51 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:51 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:51 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:51 INFO  AviasalesMainPage:26 - Set departure city: �������
+2020-08-05 12:51 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:51 INFO  AviasalesMainPage:33 - Set destination city: �����
+2020-08-05 12:51 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:51 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:51 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:51 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:51 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:51 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:51 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:51 INFO  AviasalesSearchingPage:31 - Min price: 11421
+
+2020-08-05 12:52 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:52 INFO  AviasalesMainPage:26 - Set departure city: ?????
+2020-08-05 12:52 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:52 INFO  AviasalesMainPage:33 - Set destination city: ???????
+2020-08-05 12:52 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:52 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:52 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:52 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:52 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:52 INFO  AviasalesMainPage:59 - Searching for BOOKING_CHECKBOX
+2020-08-05 12:52 INFO  AviasalesMainPage:61 - Click on checkbox
+2020-08-05 12:52 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:52 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:53 INFO  AviasalesSearchingPage:31 - Min price: 11049
+2020-08-05 12:53 INFO  AviasalesMainPage:24 - Searching for CITY_DEPARTURE_TEXTBOX
+2020-08-05 12:53 INFO  AviasalesMainPage:26 - Set departure city: ???????
+2020-08-05 12:53 INFO  AviasalesMainPage:31 - Searching for CITY_DESTINATION_TEXTBOX
+2020-08-05 12:53 INFO  AviasalesMainPage:33 - Set destination city: ?????
+2020-08-05 12:53 INFO  AviasalesMainPage:38 - Searching for DEPARTURE_DATE_TEXTBOX
+2020-08-05 12:53 INFO  AviasalesMainPage:42 - Set departure date
+2020-08-05 12:53 INFO  AviasalesMainPage:48 - Searching for RETURN_DATE_TEXTBOX
+2020-08-05 12:53 INFO  AviasalesMainPage:52 - Searching for WITHOUT_TICKET_BUTTON
+2020-08-05 12:53 INFO  AviasalesMainPage:54 - Click on button
+2020-08-05 12:53 INFO  AviasalesMainPage:66 - Searching for SEARCH_TICKET_BUTTON
+2020-08-05 12:53 INFO  AviasalesMainPage:68 - Click on button
+2020-08-05 12:53 INFO  AviasalesSearchingPage:31 - Min price: 11270
+

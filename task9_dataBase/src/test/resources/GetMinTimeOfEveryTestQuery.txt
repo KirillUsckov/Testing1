@@ -1,0 +1,6 @@
+SELECT project.name as project_name, test.name as test_name,
+MIN(HOUR(end_time) * 3600 + MINUTE(end_time) * 60 + SECOND(end_time) - HOUR(start_time) * 3600 -
+MINUTE(start_time) * 60 - SECOND(start_time)) as min_time
+FROM test
+INNER JOIN project ON test.project_id = project.id
+GROUP BY test.project_id, test.name;

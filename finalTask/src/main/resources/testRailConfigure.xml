@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<settings>
+
+    <testRail>https://tr.a1qa.com/</testRail>
+    <screenshotPath>src/test/resources/screenshot.png</screenshotPath>
+    <projectId>140</projectId>
+    <suiteName>finalTask</suiteName>
+    <suiteDescription>Tests for union reporting</suiteDescription>
+    <runName>FinalTask_Uskov</runName>
+    <sectionName>Add project, get specific project info</sectionName>
+    <resultComment>Final task</resultComment>
+
+</settings>

@@ -1,0 +1,1115 @@
+
+TestCase 	2020.10.06 19:59:44:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.06 19:59:44:	Sending GET query
+INFO	2020.10.06 19:59:44  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.06 19:59:46  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Fill booksInfoList
+INFO	2020.10.06 19:59:46  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original list
+INFO	2020.10.06 19:59:46  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+
+STEP 2	2020.10.06 19:59:46:	Searching for books with max and min prices
+
+TestCase 	2020.10.06 20:05:14:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.06 20:05:14:	Sending GET query
+INFO	2020.10.06 20:05:14  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.06 20:05:15  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:05:15  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.06 20:05:16  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.06 20:05:16:	Searching for books with max and min prices
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:05:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.06 20:09:41:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.06 20:09:41:	Sending GET query
+INFO	2020.10.06 20:09:41  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.06 20:09:43  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.06 20:09:43  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.06 20:09:43:	Searching for books with max and min prices
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.06 20:09:43  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:48:36:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:48:36:	Sending GET query
+INFO	2020.10.11 15:48:36  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:48:41  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:48:41  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:48:41:	Searching for books with max and min prices
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:48:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:48:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:48:57:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:48:57:	Sending GET query
+INFO	2020.10.11 15:48:57  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:49:00  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:00  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:49:00:	Searching for books with max and min prices
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:49:48:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:49:48:	Sending GET query
+INFO	2020.10.11 15:49:48  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:49:50  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:49:50  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:49:50:	Searching for books with max and min prices
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:49:50  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:49:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:51:13:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:51:13:	Sending GET query
+INFO	2020.10.11 15:51:13  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:51:15  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:51:15  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:51:15:	Searching for books with max and min prices
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:51:15  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:51:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:52:13:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:52:13:	Sending GET query
+INFO	2020.10.11 15:52:13  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:52:15  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:15  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:52:15:	Searching for books with max and min prices
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:52:15  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:16  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:52:35:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:52:35:	Sending GET query
+INFO	2020.10.11 15:52:35  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:52:37  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Add book's id
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:52:37  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:52:37:	Searching for books with max and min prices
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:52:37  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:52:38  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:53:16:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:53:16:	Sending GET query
+INFO	2020.10.11 15:53:16  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:53:18  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:53:18  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:53:18:	Searching for books with max and min prices
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:53:18  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:53:19  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:54:16:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:54:16:	Sending GET query
+INFO	2020.10.11 15:54:16  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:54:20  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:54:20  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:21  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:54:21:	Searching for books with max and min prices
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:54:21  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:54:57:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:54:57:	Sending GET query
+INFO	2020.10.11 15:54:57  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:54:59  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:54:59  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:54:59:	Searching for books with max and min prices
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:54:59  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:00  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:55:38:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:55:38:	Sending GET query
+INFO	2020.10.11 15:55:38  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:55:41  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:55:41  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:55:41:	Searching for books with max and min prices
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:41  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:55:42  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:55:42  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:58:30:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:58:30:	Sending GET query
+INFO	2020.10.11 15:58:30  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:58:33  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Filling out the booksInfoList
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Initialisation of books massive
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Checking that object doesn't contain "catalog" and "version" tag
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Writing book information
+INFO	2020.10.11 15:58:33  xmlGetAPI.RestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list from the original books' id list
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.11 15:58:33:	Searching for books with max and min prices
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.11 15:58:33  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.11 15:58:34  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+TestCase 	2020.10.11 15:59:54:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 15:59:54:	Sending GET query
+INFO	2020.10.11 15:59:54  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 15:59:58  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 15:59:58  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 15:59:58  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 15:59:58  xmlGetAPI.models.BooksInitialization:	Add book's id
+
+TestCase 	2020.10.11 16:00:47:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 16:00:47:	Sending GET query
+INFO	2020.10.11 16:00:47  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 16:00:49  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 16:00:49  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 16:00:49  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 16:00:49  xmlGetAPI.models.BooksInitialization:	Add book's id
+
+TestCase 	2020.10.11 16:05:01:	 xmlGetAPI.RestAPITestCases
+
+STEP 1	2020.10.11 16:05:02:	Sending GET query
+INFO	2020.10.11 16:05:02  xmlGetAPI.RestAPITestCases:	Sending query
+INFO	2020.10.11 16:05:07  xmlGetAPI.RestAPITestCases:	Checking response status code
+INFO	2020.10.11 16:05:07  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.11 16:05:07  xmlGetAPI.models.BooksInitialization:	Set books' id
+INFO	2020.10.11 16:05:07  xmlGetAPI.models.BooksInitialization:	Add book's id
+
+STEP 1	2020.10.12 15:56:15:	Sending GET query
+INFO	2020.10.12 15:56:15  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 15:56:20  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 15:56:20  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+
+STEP 1	2020.10.12 15:57:05:	Sending GET query
+INFO	2020.10.12 15:57:05  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 15:57:09  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 15:57:09  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 15:57:10  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 15:57:10  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 15:57:10  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 15:57:10  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 15:57:10:	Searching for books with max and min prices
+INFO	2020.10.12 15:57:10  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+
+STEP 1	2020.10.12 15:57:47:	Sending GET query
+INFO	2020.10.12 15:57:47  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 15:57:50  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 15:57:50  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 15:57:50  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 15:57:50  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 15:57:50  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 15:57:50  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 15:57:50:	Searching for books with max and min prices
+INFO	2020.10.12 15:57:50  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+
+STEP 1	2020.10.12 15:58:05:	Sending GET query
+INFO	2020.10.12 15:58:05  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 15:58:07  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 15:58:07  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 15:58:08  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 15:58:08  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 15:58:08  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 15:58:08  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 15:58:08:	Searching for books with max and min prices
+INFO	2020.10.12 15:58:08  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+
+STEP 1	2020.10.12 15:58:40:	Sending GET query
+INFO	2020.10.12 15:58:40  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 15:58:43  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 15:58:43  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 15:58:43  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 15:58:43  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 15:58:43  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 15:58:43  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 15:58:43:	Searching for books with max and min prices
+INFO	2020.10.12 15:58:43  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+
+STEP 1	2020.10.12 15:59:04:	Sending GET query
+INFO	2020.10.12 15:59:04  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 15:59:06  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 15:59:06  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 15:59:06:	Searching for books with max and min prices
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 15:59:06  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+STEP 1	2020.10.12 16:04:19:	Sending GET query
+INFO	2020.10.12 16:04:19  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 16:04:23  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 16:04:23  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 16:04:23:	Searching for books with max and min prices
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:04:23  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+
+STEP 1	2020.10.12 16:06:14:	Sending GET query
+INFO	2020.10.12 16:06:14  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 16:06:17  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 16:06:17  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 16:06:17:	Searching for books with max and min prices
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Return result of checking
+INFO	2020.10.12 16:06:17  xmlGetAPI.models.BooksInitialization:	Deleting of response's result document
+
+STEP 1	2020.10.12 16:07:52:	Sending GET query
+INFO	2020.10.12 16:07:52  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 16:07:54  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 16:07:54  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 16:07:54:	Searching for books with max and min prices
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Return result of checking
+INFO	2020.10.12 16:07:54  xmlGetAPI.models.BooksInitialization:	Deleting of response's result document
+
+STEP 1	2020.10.12 16:11:20:	Sending GET query
+INFO	2020.10.12 16:11:20  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 16:11:23  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 16:11:23  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 16:11:24  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 16:11:24:	Searching for books with max and min prices
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Return result of checking
+INFO	2020.10.12 16:11:24  xmlGetAPI.models.BooksInitialization:	Deleting of response's result document
+
+STEP 1	2020.10.12 16:11:48:	Sending GET query
+INFO	2020.10.12 16:11:48  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 16:11:51  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 16:11:51  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Sort sortedBooksId list
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 16:11:51:	Searching for books with max and min prices
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Find book's price
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Checking that book's price is max or min
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Return result of checking
+INFO	2020.10.12 16:11:51  xmlGetAPI.models.BooksInitialization:	Deleting of response's result document
+
+STEP 1	2020.10.12 16:20:25:	Sending GET query
+INFO	2020.10.12 16:20:25  xmlGetAPI.XMLRestAPITestCases:	Sending query
+INFO	2020.10.12 16:20:29  xmlGetAPI.XMLRestAPITestCases:	Checking response status code
+INFO	2020.10.12 16:20:29  xmlGetAPI.models.BooksInitialization:	Initialisation of booksList
+INFO	2020.10.12 16:20:30  xmlGetAPI.XMLRestAPITestCases:	Checking that books list is sorted
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Create sortedBooksId list and fill it with books' id
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Sort sortedBooksId list
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that original books' id list is equal to the sorted list
+
+STEP 2	2020.10.12 16:20:30:	Searching for books with max and min prices
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Initialisation of maxPrice, minPrice, maxPriceBook and minPriceBook variables
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Find book's price
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Checking that book's price is max or min
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksList:	Return result of checking
+INFO	2020.10.12 16:20:30  xmlGetAPI.models.BooksInitialization:	Deleting of response's result document

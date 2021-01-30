@@ -1,0 +1,469 @@
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:17 - Initialisation of webDriverExtensions and logger
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:33 - Get cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:33 - Get cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:33 - Get cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:28 - Delete cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:33 - Get cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:33 - Get cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:38 - Get cookie's value
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:33 - Get cookie
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:43 - Delete all cookies
+2020-09-08 10:17 INFO  cookiesTest.pageObjects.MainPage:48 - Get number of files
+
+2020-09-08 10:19 INFO  cookiesTest.pageObjects.MainPage:17 - Initialisation of webDriverExtensions and logger
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:28 - Delete named cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:38 - Get cookie's value
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:43 - Delete all cookies
+2020-09-08 10:20 INFO  cookiesTest.pageObjects.MainPage:48 - Get number of files
+
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:17 - Initialisation of webDriverExtensions and logger
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:28 - Delete named cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:22 - Add cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:38 - Get cookie's value
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:33 - Get named cookie
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:43 - Delete all cookies
+2020-09-08 10:22 INFO  cookiesTest.pageObjects.MainPage:48 - Get number of files
+2020-10-17 19:52 INFO  MainPage:19 - Initialisation of webDriverExtensions and logger
+2020-10-17 19:52 INFO  MainPage:24 - Add cookie
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:30 - Delete named cookie
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:24 - Add cookie
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:40 - Get cookie's value
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:45 - Delete all cookies
+2020-10-17 19:52 INFO  MainPage:50 - Get number of files
+2020-10-17 19:52 INFO  MainPage:24 - Add cookie
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:30 - Delete named cookie
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:24 - Add cookie
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:40 - Get cookie's value
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:45 - Delete all cookies
+2020-10-17 19:52 INFO  MainPage:50 - Get number of files
+2020-10-17 19:52 INFO  MainPage:24 - Add cookie
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:30 - Delete named cookie
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:24 - Add cookie
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:40 - Get cookie's value
+2020-10-17 19:52 INFO  MainPage:35 - Get named cookie
+2020-10-17 19:52 INFO  MainPage:45 - Delete all cookies
+2020-10-17 19:52 INFO  MainPage:50 - Get number of files
+2020-10-17 20:07 INFO  MainPage:19 - Initialisation of webDriverExtensions and logger
+2020-10-17 20:07 INFO  MainPage:24 - Add cookie
+2020-10-17 20:07 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:07 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:07 INFO  MainPage:24 - Add cookie
+2020-10-17 20:07 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:07 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:07 INFO  MainPage:24 - Add cookie
+2020-10-17 20:07 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:07 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:09 INFO  MainPage:19 - Initialisation of webDriverExtensions and logger
+2020-10-17 20:09 INFO  MainPage:19 - Initialisation of webDriverExtensions and logger
+2020-10-17 20:10 INFO  MainPage:19 - Initialisation of webDriverExtensions and logger
+2020-10-17 20:10 INFO  MainPage:24 - Add cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:24 - Add cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:24 - Add cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:30 - Delete named cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:24 - Add cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:40 - Get cookie's value
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:45 - Delete all cookies
+2020-10-17 20:10 INFO  MainPage:50 - Get number of files
+2020-10-17 20:10 INFO  MainPage:19 - Initialisation of webDriverExtensions and logger
+2020-10-17 20:10 INFO  MainPage:24 - Add cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:24 - Add cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:24 - Add cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:30 - Delete named cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:24 - Add cookie
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:40 - Get cookie's value
+2020-10-17 20:10 INFO  MainPage:35 - Get named cookie
+2020-10-17 20:10 INFO  MainPage:45 - Delete all cookies
+2020-10-17 20:10 INFO  MainPage:50 - Get number of files
+2020-10-17 20:22 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-17 20:22 INFO  Steps:58 - Get cookie's value
+2020-10-17 20:22 INFO  Steps:53 - Get named cookie
+2020-10-17 20:22 INFO  Steps:53 - Get named cookie
+2020-10-17 20:22 INFO  Steps:58 - Get cookie's value
+2020-10-17 20:22 INFO  Steps:53 - Get named cookie
+2020-10-17 20:22 INFO  Steps:53 - Get named cookie
+2020-10-17 20:22 INFO  Steps:58 - Get cookie's value
+2020-10-17 20:22 INFO  Steps:53 - Get named cookie
+2020-10-17 20:22 INFO  Steps:53 - Get named cookie
+2020-10-17 20:22 INFO  Steps:36 - Delete named cookie
+2020-10-17 20:22 INFO  Steps:53 - Get named cookie
+2020-10-17 20:22 INFO  Steps:58 - Get cookie's value
+2020-10-17 20:22 INFO  Steps:53 - Get named cookie
+2020-10-17 20:22 INFO  Steps:47 - Delete all cookies
+2020-10-17 20:22 INFO  Steps:63 - Get number of files
+2020-10-17 20:23 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-17 20:23 INFO  Steps:57 - Get cookie's value
+2020-10-17 20:23 INFO  Steps:52 - Get named cookie
+2020-10-17 20:23 INFO  Steps:52 - Get named cookie
+2020-10-17 20:23 INFO  Steps:57 - Get cookie's value
+2020-10-17 20:23 INFO  Steps:52 - Get named cookie
+2020-10-17 20:23 INFO  Steps:52 - Get named cookie
+2020-10-17 20:23 INFO  Steps:57 - Get cookie's value
+2020-10-17 20:23 INFO  Steps:52 - Get named cookie
+2020-10-17 20:23 INFO  Steps:52 - Get named cookie
+2020-10-17 20:23 INFO  Steps:35 - Delete named cookie
+2020-10-17 20:23 INFO  Steps:52 - Get named cookie
+2020-10-17 20:23 INFO  Steps:57 - Get cookie's value
+2020-10-17 20:23 INFO  Steps:52 - Get named cookie
+2020-10-17 20:23 INFO  Steps:46 - Delete all cookies
+2020-10-17 20:23 INFO  Steps:62 - Get number of files
+2020-10-17 20:36 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-17 20:36 INFO  Steps:19 - Add all cookies
+2020-10-17 20:36 INFO  Steps:22 - Write cookie's key in variable
+2020-10-17 20:36 INFO  Steps:24 - Write cookie's value in variable
+2020-10-17 20:36 INFO  Cookie:35 - Add cookie
+2020-10-17 20:36 INFO  Cookie:51 - Get cookie's value
+2020-10-17 20:36 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:36 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-17 20:36 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:36 INFO  Steps:22 - Write cookie's key in variable
+2020-10-17 20:36 INFO  Steps:24 - Write cookie's value in variable
+2020-10-17 20:36 INFO  Cookie:35 - Add cookie
+2020-10-17 20:36 INFO  Cookie:51 - Get cookie's value
+2020-10-17 20:36 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:36 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-17 20:36 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:36 INFO  Steps:22 - Write cookie's key in variable
+2020-10-17 20:36 INFO  Steps:24 - Write cookie's value in variable
+2020-10-17 20:36 INFO  Cookie:35 - Add cookie
+2020-10-17 20:36 INFO  Cookie:51 - Get cookie's value
+2020-10-17 20:36 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:36 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-17 20:36 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:36 INFO  Cookie:29 - Delete named cookie
+2020-10-17 20:36 INFO  Cookie:46 - Get named cookie
+2020-10-17 20:36 INFO  Cookie:35 - Add cookie
+2020-10-17 20:36 INFO  Cookie:51 - Get cookie's value
+2020-10-17 20:36 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:36 INFO  Steps:43 - Delete all cookies
+2020-10-17 20:36 INFO  Steps:49 - Get number of files
+2020-10-17 20:37 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-17 20:37 INFO  Steps:19 - Add all cookies
+2020-10-17 20:37 INFO  Steps:22 - Write cookie's key in variable
+2020-10-17 20:37 INFO  Steps:24 - Write cookie's value in variable
+2020-10-17 20:37 INFO  Cookie:35 - Add cookie
+2020-10-17 20:37 INFO  Cookie:51 - Get cookie's value
+2020-10-17 20:37 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:37 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-17 20:37 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:37 INFO  Steps:22 - Write cookie's key in variable
+2020-10-17 20:37 INFO  Steps:24 - Write cookie's value in variable
+2020-10-17 20:37 INFO  Cookie:35 - Add cookie
+2020-10-17 20:37 INFO  Cookie:51 - Get cookie's value
+2020-10-17 20:37 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:37 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-17 20:37 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:37 INFO  Steps:22 - Write cookie's key in variable
+2020-10-17 20:37 INFO  Steps:24 - Write cookie's value in variable
+2020-10-17 20:37 INFO  Cookie:35 - Add cookie
+2020-10-17 20:37 INFO  Cookie:51 - Get cookie's value
+2020-10-17 20:37 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:37 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-17 20:37 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:37 INFO  Cookie:29 - Delete named cookie
+2020-10-17 20:37 INFO  Cookie:46 - Get named cookie
+2020-10-17 20:37 INFO  Cookie:35 - Add cookie
+2020-10-17 20:37 INFO  Cookie:51 - Get cookie's value
+2020-10-17 20:37 INFO  Cookie:41 - Get named cookie
+2020-10-17 20:37 INFO  Steps:43 - Delete all cookies
+2020-10-17 20:37 INFO  Steps:49 - Get number of files
+2020-10-19 14:02 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:02 INFO  Steps:19 - Add all cookies
+2020-10-19 14:02 INFO  Steps:32 - Write cookie's key in variable
+2020-10-19 14:02 INFO  Steps:34 - Write cookie's value in variable
+2020-10-19 14:02 INFO  Cookie:37 - Add cookie
+2020-10-19 14:02 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:02 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:02 INFO  Steps:32 - Write cookie's key in variable
+2020-10-19 14:02 INFO  Steps:34 - Write cookie's value in variable
+2020-10-19 14:02 INFO  Cookie:37 - Add cookie
+2020-10-19 14:02 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:02 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:02 INFO  Steps:32 - Write cookie's key in variable
+2020-10-19 14:02 INFO  Steps:34 - Write cookie's value in variable
+2020-10-19 14:02 INFO  Cookie:37 - Add cookie
+2020-10-19 14:02 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:02 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:02 INFO  Cookie:32 - Delete named cookie
+2020-10-19 14:02 INFO  Cookie:47 - Get named cookie
+2020-10-19 14:02 INFO  Cookie:37 - Add cookie
+2020-10-19 14:02 INFO  Cookie:52 - Get cookie's value
+2020-10-19 14:02 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:02 INFO  Steps:56 - Delete all cookies
+2020-10-19 14:02 INFO  Steps:61 - Get number of files
+2020-10-19 14:06 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:06 INFO  Steps:18 - Add all cookies
+2020-10-19 14:06 INFO  Steps:35 - Write cookie's key in variable
+2020-10-19 14:06 INFO  Steps:37 - Write cookie's value in variable
+2020-10-19 14:06 INFO  Cookie:37 - Add cookie
+2020-10-19 14:06 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:06 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:06 INFO  Steps:35 - Write cookie's key in variable
+2020-10-19 14:06 INFO  Steps:37 - Write cookie's value in variable
+2020-10-19 14:06 INFO  Cookie:37 - Add cookie
+2020-10-19 14:06 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:06 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:06 INFO  Steps:35 - Write cookie's key in variable
+2020-10-19 14:06 INFO  Steps:37 - Write cookie's value in variable
+2020-10-19 14:06 INFO  Cookie:37 - Add cookie
+2020-10-19 14:06 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:06 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:06 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:06 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:06 INFO  Cookie:32 - Delete named cookie
+2020-10-19 14:06 INFO  Cookie:47 - Get named cookie
+2020-10-19 14:06 INFO  Cookie:37 - Add cookie
+2020-10-19 14:06 INFO  Cookie:52 - Get cookie's value
+2020-10-19 14:06 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:06 INFO  Steps:59 - Delete all cookies
+2020-10-19 14:06 INFO  Steps:64 - Get number of files
+2020-10-19 14:07 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:07 INFO  Steps:18 - Add all cookies
+2020-10-19 14:07 INFO  Steps:36 - Write cookie's key in variable
+2020-10-19 14:07 INFO  Steps:38 - Write cookie's value in variable
+2020-10-19 14:07 INFO  Cookie:37 - Add cookie
+2020-10-19 14:07 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Steps:36 - Write cookie's key in variable
+2020-10-19 14:07 INFO  Steps:38 - Write cookie's value in variable
+2020-10-19 14:07 INFO  Cookie:37 - Add cookie
+2020-10-19 14:07 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Steps:36 - Write cookie's key in variable
+2020-10-19 14:07 INFO  Steps:38 - Write cookie's value in variable
+2020-10-19 14:07 INFO  Cookie:37 - Add cookie
+2020-10-19 14:07 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Cookie:32 - Delete named cookie
+2020-10-19 14:07 INFO  Cookie:47 - Get named cookie
+2020-10-19 14:07 INFO  Cookie:37 - Add cookie
+2020-10-19 14:07 INFO  Cookie:52 - Get cookie's value
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Steps:60 - Delete all cookies
+2020-10-19 14:07 INFO  Steps:65 - Get number of files
+2020-10-19 14:07 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:07 INFO  Steps:18 - Add all cookies
+2020-10-19 14:07 INFO  Steps:35 - Write cookie's key in variable
+2020-10-19 14:07 INFO  Steps:37 - Write cookie's value in variable
+2020-10-19 14:07 INFO  Cookie:37 - Add cookie
+2020-10-19 14:07 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Steps:35 - Write cookie's key in variable
+2020-10-19 14:07 INFO  Steps:37 - Write cookie's value in variable
+2020-10-19 14:07 INFO  Cookie:37 - Add cookie
+2020-10-19 14:07 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Steps:35 - Write cookie's key in variable
+2020-10-19 14:07 INFO  Steps:37 - Write cookie's value in variable
+2020-10-19 14:07 INFO  Cookie:37 - Add cookie
+2020-10-19 14:07 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Cookie:32 - Delete named cookie
+2020-10-19 14:07 INFO  Cookie:47 - Get named cookie
+2020-10-19 14:07 INFO  Cookie:37 - Add cookie
+2020-10-19 14:07 INFO  Cookie:52 - Get cookie's value
+2020-10-19 14:07 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:07 INFO  Steps:59 - Delete all cookies
+2020-10-19 14:07 INFO  Steps:64 - Get number of files
+2020-10-19 14:13 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:13 INFO  Steps:17 - Add all cookies
+2020-10-19 14:13 INFO  Steps:34 - Write cookie's key in variable
+2020-10-19 14:13 INFO  Steps:36 - Write cookie's value in variable
+2020-10-19 14:13 INFO  Cookie:37 - Add cookie
+2020-10-19 14:13 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:13 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:13 INFO  Steps:34 - Write cookie's key in variable
+2020-10-19 14:13 INFO  Steps:36 - Write cookie's value in variable
+2020-10-19 14:13 INFO  Cookie:37 - Add cookie
+2020-10-19 14:13 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:13 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:13 INFO  Steps:34 - Write cookie's key in variable
+2020-10-19 14:13 INFO  Steps:36 - Write cookie's value in variable
+2020-10-19 14:13 INFO  Cookie:37 - Add cookie
+2020-10-19 14:13 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:13 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:13 INFO  Cookie:17 - Check that cookies value isn't null
+2020-10-19 14:13 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:13 INFO  Cookie:32 - Delete named cookie
+2020-10-19 14:13 INFO  Cookie:47 - Get named cookie
+2020-10-19 14:13 INFO  Cookie:37 - Add cookie
+2020-10-19 14:13 INFO  Cookie:52 - Get cookie's value
+2020-10-19 14:13 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:13 INFO  Steps:58 - Delete all cookies
+2020-10-19 14:13 INFO  Steps:63 - Get number of files
+2020-10-19 14:41 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:41 INFO  Steps:17 - Add all cookies
+2020-10-19 14:41 INFO  Cookie:37 - Add cookie
+2020-10-19 14:41 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:41 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:41 INFO  Cookie:37 - Add cookie
+2020-10-19 14:41 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:41 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:41 INFO  Cookie:37 - Add cookie
+2020-10-19 14:41 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:41 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:41 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:41 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:41 INFO  Cookie:31 - Delete named cookie
+2020-10-19 14:41 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:41 INFO  Cookie:37 - Add cookie
+2020-10-19 14:41 INFO  Cookie:48 - Get cookie's value
+2020-10-19 14:41 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:41 INFO  Steps:45 - Delete all cookies
+2020-10-19 14:41 INFO  Steps:50 - Get number of files
+2020-10-19 14:49 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:49 INFO  Steps:17 - Add all cookies
+2020-10-19 14:49 INFO  Cookie:37 - Add cookie
+2020-10-19 14:49 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:49 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:49 INFO  Cookie:37 - Add cookie
+2020-10-19 14:49 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:49 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:49 INFO  Cookie:37 - Add cookie
+2020-10-19 14:49 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:49 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:49 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:49 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:49 INFO  Cookie:31 - Delete named cookie
+2020-10-19 14:49 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:49 INFO  Cookie:37 - Add cookie
+2020-10-19 14:49 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:49 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:51 INFO  Steps:17 - Add all cookies
+2020-10-19 14:51 INFO  Cookie:37 - Add cookie
+2020-10-19 14:51 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:37 - Add cookie
+2020-10-19 14:51 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:37 - Add cookie
+2020-10-19 14:51 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:31 - Delete named cookie
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:37 - Add cookie
+2020-10-19 14:51 INFO  Cookie:48 - Get cookie's value
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Steps:43 - Delete all cookies
+2020-10-19 14:51 INFO  Steps:48 - Get number of files
+2020-10-19 14:51 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:51 INFO  Steps:17 - Add all cookies
+2020-10-19 14:51 INFO  Cookie:37 - Add cookie
+2020-10-19 14:51 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:37 - Add cookie
+2020-10-19 14:51 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:37 - Add cookie
+2020-10-19 14:51 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:31 - Delete named cookie
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Cookie:37 - Add cookie
+2020-10-19 14:51 INFO  Cookie:48 - Get cookie's value
+2020-10-19 14:51 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:51 INFO  Steps:43 - Delete all cookies
+2020-10-19 14:51 INFO  Steps:48 - Get number of files
+2020-10-19 14:52 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:52 INFO  Steps:17 - Add all cookies
+2020-10-19 14:52 INFO  Cookie:37 - Add cookie
+2020-10-19 14:52 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:37 - Add cookie
+2020-10-19 14:52 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:37 - Add cookie
+2020-10-19 14:52 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:31 - Delete named cookie
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:31 - Delete named cookie
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:37 - Add cookie
+2020-10-19 14:52 INFO  Cookie:48 - Get cookie's value
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:37 - Add cookie
+2020-10-19 14:52 INFO  Cookie:48 - Get cookie's value
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Steps:43 - Delete all cookies
+2020-10-19 14:52 INFO  Steps:48 - Get number of files
+2020-10-19 14:52 INFO  MainPage:16 - Initialisation of webDriverExtensions and logger
+2020-10-19 14:52 INFO  Steps:17 - Add all cookies
+2020-10-19 14:52 INFO  Cookie:37 - Add cookie
+2020-10-19 14:52 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:37 - Add cookie
+2020-10-19 14:52 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:37 - Add cookie
+2020-10-19 14:52 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:22 - Check that cookies value isn't null
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:31 - Delete named cookie
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Cookie:37 - Add cookie
+2020-10-19 14:52 INFO  Cookie:48 - Get cookie's value
+2020-10-19 14:52 INFO  Cookie:42 - Get named cookie
+2020-10-19 14:52 INFO  Steps:43 - Delete all cookies
+2020-10-19 14:52 INFO  Steps:48 - Get number of files

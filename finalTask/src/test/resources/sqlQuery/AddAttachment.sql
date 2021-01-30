@@ -1,0 +1,1 @@
+insert into attachment (content, content_type, test_id) values (?, ?, ?);

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SQLTestSuite" verbose="1">
+
+    <test name="Get chrome and firefox tests amount">
+        <classes>
+            <class name="sqlQueryTests.tests.GetChromeFirefoxTests"></class>
+        </classes>
+    </test>
+
+    <test name="Get projects date after specific">
+        <parameter name="minimumDate" value="2015-11-07"></parameter>
+        <classes>
+            <class name="sqlQueryTests.tests.GetProjectsDateAfterSpecific"></class>
+        </classes>
+    </test>
+
+    <test name="Get min time for every test">
+        <classes>
+            <class name="sqlQueryTests.tests.GetMinTimeOfEveryTest"></class>
+        </classes>
+    </test>
+
+    <test name="Get projects with unique tests">
+        <classes>
+            <class name="sqlQueryTests.tests.GetProjectsWithUniqueTests"></class>
+        </classes>
+    </test>
+</suite>

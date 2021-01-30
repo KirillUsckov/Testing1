@@ -1,0 +1,1 @@
+select id as testId from test where method_name='methName' and session_id=sessionId;

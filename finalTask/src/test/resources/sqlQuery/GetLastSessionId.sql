@@ -1,0 +1,1 @@
+SELECT MAX(id) AS max_session_id FROM session;

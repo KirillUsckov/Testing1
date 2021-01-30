@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" verbose="1">
+
+    <test name="Enter random data to registration form">
+        <classes>
+            <class name="userInterfaceTests.tests.FormsTestCases"></class>
+        </classes>
+    </test>
+
+    <test name="Cookies accepting">
+        <classes>
+            <class name="userInterfaceTests.tests.CookiesTestCases"></class>
+        </classes>
+    </test>
+
+    <test name="Check time on timer">
+        <classes>
+            <class name="userInterfaceTests.tests.TimerCheckingTestCases"></class>
+        </classes>
+    </test>
+
+    <test name="Interaction with help form">
+        <classes>
+            <class name="userInterfaceTests.tests.HelpFormTestCases"></class>
+        </classes>
+    </test>
+
+
+
+</suite>

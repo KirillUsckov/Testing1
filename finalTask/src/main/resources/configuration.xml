@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<settings>
+
+    <siteUrl>http://%s:%s@localhost:8080/web</siteUrl>
+    <apiServer>http://localhost:8080/api</apiServer>
+    <dbServer>jdbc:mysql://localhost:3306/union_reporting</dbServer>
+    <browser>Chrome</browser>
+
+</settings>

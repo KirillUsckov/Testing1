@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<settings>
+
+    <siteUrl>https://vk.com/</siteUrl>
+    <apiVer>5.124</apiVer>
+    <browser>Chrome</browser>
+    <lang>ru</lang>
+
+</settings>

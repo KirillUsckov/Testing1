@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteFindTicket" verbose="1">
+
+    <test name="testDataForFindTicket">
+        <groups>
+            <run>
+                <exclude name="findDirectTicket"></exclude>
+            </run>
+        </groups>
+        <classes>
+            <class name="AviasalesTestCases"></class>
+        </classes>
+    </test>
+
+    <test name="testDataForFindDirectTicket">
+        <groups>
+            <run>
+                <exclude name="findTicket"></exclude>
+            </run>
+        </groups>
+        <classes>
+            <class name="AviasalesTestCases"></class>
+        </classes>
+    </test>
+
+</suite>

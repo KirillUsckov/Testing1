@@ -1,0 +1,4 @@
+SELECT project.name AS project_name, COUNT(DISTINCT test.name) AS unique_tests
+FROM test
+INNER JOIN project ON test.project_id = project.id
+GROUP BY test.project_id;

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+    <!-- Main page -->
+    <installButtonXpath>//a[@class='header_installsteam_btn_content']</installButtonXpath>
+    <localisationSetterXpath>//span[@id='language_pulldown']</localisationSetterXpath>
+    <languagesListXpath>//div[@id='language_dropdown']//div[@class='popup_body popup_menu']//a[@class='popup_menu_item tight']</languagesListXpath>
+
+    <!-- Install page -->
+    <setupSteamButtonXPath>//div[@id='about_greeting']//a[@class='about_install_steam_link']</setupSteamButtonXPath>
+
+    <!-- GenrePage -->
+    <topSellersButtonXpath>//div[@id='tab_select_TopSellers']//div[@class='tab_content']</topSellersButtonXpath>
+    <discountsXPath>//div[@id='TopSellersRows']//div[@class='discount_block tab_item_discount']//div[@class='discount_pct']</discountsXPath>
+    <discountedPricesXpath>//div[@id='TopSellersTable']//div[@class='discount_block tab_item_discount']//div[@class='discount_final_price']</discountedPricesXpath>
+    <originalPricesXpath>//div[@id='TopSellersTable']//div[@class='discount_block tab_item_discount']//div[@class='discount_original_price']</originalPricesXpath>
+
+    <!-- Proof of age Page -->
+    <selectYearXpath>//select[@id='ageYear']</selectYearXpath>
+    <yearForVerification>1980</yearForVerification>
+    <viewPageButtonXpath>//div[@class='agegate_text_container btns']//a[1]</viewPageButtonXpath>
+
+    <!-- Game page -->
+    <discountXpath>//div[@class='game_area_purchase_game']//div[@class='discount_pct']</discountXpath>
+    <initialPriceXpath>//div[@class='game_area_purchase_game']//div[@class='discount_original_price']</initialPriceXpath>
+    <discountedPriceXpath>//div[@class='game_area_purchase_game']//div[@class='discount_final_price']</discountedPriceXpath>
+
+</strings>

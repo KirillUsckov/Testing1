@@ -1,0 +1,5 @@
+SELECT project.name AS project_name, test.name AS test_name, start_time AS test_start_date
+FROM test
+INNER JOIN project ON test.project_id = project.id
+WHERE DATE(test.start_time)>='testData'
+GROUP BY test.project_id, test.name, start_time;
